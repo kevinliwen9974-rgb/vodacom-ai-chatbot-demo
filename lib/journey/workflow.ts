@@ -12,7 +12,7 @@ import type {
 import { getLatestInvoice, SHEN_LTE_AVG } from "@/data/billing";
 import { HUAWEI_NOVA_Y74 } from "@/data/devices/nbo";
 import { formatSastClock } from "@/lib/care/hours";
-import { TOPUP_BUNDLES, type TopUpBundle } from "@/components/sites/qr-telkom-co-za-50a80143/shared/catalog";
+import { TOPUP_BUNDLES, type TopUpBundle } from "@/components/sites/qr-vodacom-co-za-50a80143/shared/catalog";
 import { findAdjacentUpgrade } from "@/lib/marketing/rules";
 
 /** One sidebar framework — every scenario maps onto these six stages. */
@@ -73,7 +73,7 @@ function onTopUpPage(pathname?: string): boolean {
   if (!pathname) return false;
   return (
     pathname.startsWith("/qr_portal/top-up") ||
-    pathname.startsWith("/monice")
+    pathname.startsWith("/summer-deals")
   );
 }
 

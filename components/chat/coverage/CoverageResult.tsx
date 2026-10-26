@@ -34,7 +34,7 @@ export function CoverageResult({ address, line1, suburb, city, result }: Props) 
                 }`}
                 title={
                   result.source === "live"
-                    ? "Real flags from Vodacom GIS (gis.telkom.co.za)"
+                    ? "Vodacom coverage result"
                     : "Demo data — mock scenario"
                 }
               >

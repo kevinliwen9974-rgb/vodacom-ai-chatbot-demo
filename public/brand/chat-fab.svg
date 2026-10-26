@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 80" fill="none" role="img" aria-label="Telkom chat">
-  <!-- Flat Telkom-style FAB (fallback when CDN PNG unavailable): ? bubble + typing bubble -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 80" fill="none" role="img" aria-label="Vodacom chat">
+  <!-- Flat Vodacom-style FAB (fallback when CDN PNG unavailable): ? bubble + typing bubble -->
   <g filter="drop-shadow(0 6px 14px rgba(0, 82, 136, 0.28))">
     <!-- back bubble with ? -->
     <path

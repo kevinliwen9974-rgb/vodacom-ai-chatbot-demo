@@ -1,6 +1,6 @@
 import { cookies } from "next/headers";
 
-export const SESSION_COOKIE = "telkom_demo_sid";
+export const SESSION_COOKIE = "vodacom_demo_sid";
 
 export async function getSessionId(): Promise<string> {
   const jar = await cookies();

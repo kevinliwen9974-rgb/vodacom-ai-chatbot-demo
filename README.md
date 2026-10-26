@@ -1,13 +1,13 @@
-# Telkom AI Customer Experience Demo
+# Vodacom AI Customer Experience Demo
 
-High-fidelity **mock** Telkom In-Store / QR portal + chatbot mini-program.
+High-fidelity **mock** Vodacom In-Store / QR portal + chatbot mini-program.
 
-Synthetic data only. Not connected to Telkom production systems.
+Synthetic data only. Not connected to Vodacom production systems.
 
 ## Quick start
 
 ```bash
-cd telkom-demo
+cd vodacom-demo
 npm install
 npm run dev
 ```
@@ -31,22 +31,22 @@ Presenter: **FF WhatsApp Gate** | **FF TikTok Usage**
 
 | Route | Source |
 |-------|--------|
-| `/` | https://qr.telkom.co.za/ |
-| `/qr_portal/top-up/data` | https://qr.telkom.co.za/qr_portal/top-up/data? |
-| `/monice/bundle-select` | https://qr.telkom.co.za/monice/bundle-select |
+| `/` | https://qr.vodacom.co.za/ |
+| `/qr_portal/top-up/data` | https://qr.vodacom.co.za/qr_portal/top-up/data? |
+| `/summer-deals/bundle-select` | https://qr.vodacom.co.za/summer-deals/bundle-select |
 
-Assets under `public/sites/qr-telkom-co-za-50a80143/`. Research: `docs/research/qr-telkom-co-za-50a80143/`.
+Assets under `public/sites/qr-vodacom-co-za-50a80143/`. Research: `docs/research/qr-vodacom-co-za-50a80143/`.
 
 ## What’s implemented vs stubbed
 
 | Area | Status |
 |------|--------|
-| QR hub / Top Up / Mo’Nice UI clones | Done (screenshot + live HTML tokens) |
+| QR hub / Top Up / Summer Deals UI clones | Done (screenshot + live HTML tokens) |
 | Chatbot compare + buy-in-chat | Done |
 | Behavior tracking + journey panel | Done |
 | Billing Vision (`qwen3.6-27b`) | `/api/ai/analyze-bill` |
 | ASR mic (`qwen3-asr-flash`) | Chat mic → `/api/ai/transcribe` |
-| www.telkom.co.za/personal/deals | Deferred |
+| www.vodacom.co.za/personal/deals | Deferred |
 | Payfast / Ozow | Interface stubs |
 
 ## Env

@@ -1,4 +1,4 @@
-import type { TopUpBundle } from "@/components/sites/qr-telkom-co-za-50a80143/shared/catalog";
+import type { TopUpBundle } from "@/components/sites/qr-vodacom-co-za-50a80143/shared/catalog";
 
 export type PurchaseIntent = "LOW" | "MEDIUM" | "HIGH";
 

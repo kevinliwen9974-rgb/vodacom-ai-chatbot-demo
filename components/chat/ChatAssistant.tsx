@@ -3,7 +3,11 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { useRouter, usePathname } from "next/navigation";
 import { AnimatePresence, motion } from "framer-motion";
-import { useDemo, type ChatChoice } from "@/hooks/useDemo";
+import {
+  useDemo,
+  VODACOM_STORE_LOCATOR_URL,
+  type ChatChoice,
+} from "@/hooks/useDemo";
 import { AGENT_HOURS_LINES, AGENT_OFFLINE_HINT } from "@/lib/care/hours";
 import { startMicRecording, type MicRecorderControls } from "@/lib/audio/mic";
 import { apiFetch } from "@/lib/api/client";
@@ -12,7 +16,7 @@ import { matchKnownCoverageLocation } from "@/lib/coverage/resolve";
 import {
   getTopUpBundle,
   TOPUP_BUNDLES,
-} from "@/components/sites/qr-telkom-co-za-50a80143/shared/catalog";
+} from "@/components/sites/qr-vodacom-co-za-50a80143/shared/catalog";
 import { AppUsagePie } from "@/components/chat/AppUsagePie";
 import { UpgradeInsightCard } from "@/components/chat/UpgradeInsightCard";
 import { DeviceDealCard } from "@/components/chat/DeviceDealCard";
@@ -176,11 +180,7 @@ export function ChatAssistant() {
         return;
       }
       if (choice.action === "open_store_locator" || choice.action === "sim_find_store") {
-        window.open(
-          "https://www.telkom.co.za/storelocator",
-          "_blank",
-          "noopener,noreferrer",
-        );
+        window.open(VODACOM_STORE_LOCATOR_URL, "_blank", "noopener,noreferrer");
         void handleChatAction(choice.action);
         return;
       }

@@ -8,7 +8,7 @@ export function getKycMode(customer: Customer): KycMode {
   return customer.kycMode ?? "compare";
 }
 
-/** Absolute paths to CRM-scanned KYC PDFs for a demo customer. */
+/** Absolute paths to CRM-scanned KYC documents for a demo customer. */
 export function getKycPdfPaths(customerId: string): {
   passportOrId: string;
   proofOfResidence: string;
@@ -20,13 +20,13 @@ export function getKycPdfPaths(customerId: string): {
   );
   const passportImage = join(root, "passport.jpg");
   const passportOrId = existsSync(passportImage) ? passportImage : passportPdf;
-  const proofOfResidence = join(
-    root,
-    customerId === "sipho"
-      ? "proof-of-residence-mock.pdf"
-      : "proof-of-residence.pdf",
-  );
-  if (!existsSync(passportOrId) || !existsSync(proofOfResidence)) {
+  const proofStem = customerId === "sipho"
+    ? "proof-of-residence-mock"
+    : "proof-of-residence";
+  const proofOfResidence = ["png", "jpg", "jpeg", "pdf"]
+    .map((ext) => join(root, `${proofStem}.${ext}`))
+    .find(existsSync);
+  if (!existsSync(passportOrId) || !proofOfResidence) {
     return null;
   }
   return { passportOrId, proofOfResidence };

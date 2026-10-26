@@ -24,10 +24,10 @@ import type { PortalEvent } from "@/types/portal";
 import { toTopUpBundle } from "@/types/portal";
 import {
   getTopUpBundle,
-  MONICE_OFFERS,
+  SUMMER_DEALS_OFFERS,
   randPerGb,
   type TopUpBundle,
-} from "@/components/sites/qr-telkom-co-za-50a80143/shared/catalog";
+} from "@/components/sites/qr-vodacom-co-za-50a80143/shared/catalog";
 import {
   evaluateCheckoutGate,
   findAdjacentUpgrade,
@@ -80,10 +80,11 @@ import {
 
 const VODACOM_CARE_PHONE = "081 180";
 /** Vodacom online help / live chat. */
-export const VODACOM_ONLINE_CHAT_URL = "https://gethelp.telkom.co.za/#/";
+export const VODACOM_ONLINE_CHAT_URL =
+  "https://help.vodacom.co.za/tobi/home/web/";
 /** Official Vodacom store finder — optional extra; collection still requires a named store. */
 export const VODACOM_STORE_LOCATOR_URL =
-  "https://www.telkom.co.za/storelocator";
+  "https://www.vodacom.co.za/cloud/contact-us/find-a-store/";
 /** Shen / Sunninghill — rank nearby JHB stores for SIM collection. */
 const SHEN_HOME = { lat: -26.041, lng: 28.072 };
 
@@ -368,8 +369,8 @@ type DemoContextValue = {
   setPortalSelection: (b: TopUpBundle | null) => void;
   /** Last bundle the chat guided onto the page — survives message clears. */
   guidedBundleId: string | null;
-  moniceOfferHint: { offerId: string; nonce: number } | null;
-  clearMoniceOfferHint: () => void;
+  summerDealsOfferHint: { offerId: string; nonce: number } | null;
+  clearSummerDealsOfferHint: () => void;
   startSimSelfCare: (opts?: {
     suspendOnly?: boolean;
     replace?: boolean;
@@ -471,7 +472,7 @@ export function DemoProvider({ children }: { children: ReactNode }) {
     null,
   );
   const [guidedBundleId, setGuidedBundleId] = useState<string | null>(null);
-  const [moniceOfferHint, setMoniceOfferHint] = useState<{
+  const [summerDealsOfferHint, setSummerDealsOfferHint] = useState<{
     offerId: string;
     nonce: number;
   } | null>(null);
@@ -683,10 +684,10 @@ export function DemoProvider({ children }: { children: ReactNode }) {
       });
       setGuidedBundleId(b.id);
     } else {
-      const m = MONICE_OFFERS.find((x) => x.id === bundleId);
+      const m = SUMMER_DEALS_OFFERS.find((x) => x.id === bundleId);
       if (!m) return;
       setGuidedBundleId(null);
-      setMoniceOfferHint({ offerId: m.id, nonce: Date.now() });
+      setSummerDealsOfferHint({ offerId: m.id, nonce: Date.now() });
     }
     setProactiveOpen(false);
     setChatOpen(false);
@@ -697,15 +698,15 @@ export function DemoProvider({ children }: { children: ReactNode }) {
     setPortalShelfHint(null);
   }, []);
 
-  const clearMoniceOfferHint = useCallback(() => {
-    setMoniceOfferHint(null);
+  const clearSummerDealsOfferHint = useCallback(() => {
+    setSummerDealsOfferHint(null);
   }, []);
 
   const fastForward = useCallback(async () => {
     if (
       typeof window !== "undefined" &&
       (window.location.pathname.includes("top-up") ||
-        window.location.pathname.includes("monice") ||
+        window.location.pathname.includes("summer-deals") ||
         window.location.pathname === "/")
     ) {
       await fastForwardWhatsApp();
@@ -939,12 +940,12 @@ export function DemoProvider({ children }: { children: ReactNode }) {
 
       if (event.kind === "bundle_selected") {
         const sceneKey = event.product;
-        // Only Top-up / Mo'Nice host pages may trigger marketing (not homepage chat)
+        // Only Top-up / Summer Deals host pages may trigger marketing (not homepage chat)
         if (typeof window !== "undefined" && !event.force) {
           const path = window.location.pathname;
           const onMarketingHost =
             path.includes("/qr_portal/top-up") ||
-            path.includes("/monice");
+            path.includes("/summer-deals");
           if (!onMarketingHost) return false;
         }
         // One interrupt per product scene; Presenter Fast Forward (force) may replay
@@ -1076,7 +1077,7 @@ export function DemoProvider({ children }: { children: ReactNode }) {
         return true;
       }
 
-      if (event.kind === "monice_compare" || event.kind === "monice_checkout_intent") {
+      if (event.kind === "summer_deals_compare" || event.kind === "summer_deals_checkout_intent") {
         const scored = event.candidates
           .filter((c) => c.volumeMb > 0)
           .map((c) => ({
@@ -1087,7 +1088,7 @@ export function DemoProvider({ children }: { children: ReactNode }) {
         const bestValue = scored[0];
         const premium = [...scored].sort((a, b) => b.price - a.price)[0];
         const pick =
-          event.kind === "monice_checkout_intent"
+          event.kind === "summer_deals_checkout_intent"
             ? premium ?? bestValue
             : bestValue;
         if (!pick) return false;
@@ -1104,7 +1105,7 @@ export function DemoProvider({ children }: { children: ReactNode }) {
           {
             id: `m_${Date.now()}`,
             role: "bot",
-            text: `Mo'Nice ${event.category} — side-by-side on cost per GB. I'll highlight a pick on the page; you finish with Next.`,
+            text: `Summer Deals ${event.category} — side-by-side on cost per GB. I'll highlight a pick on the page; you finish with Next.`,
             compareRows: rows,
             guideBundleId: pick.id,
           },
@@ -3000,7 +3001,7 @@ export function DemoProvider({ children }: { children: ReactNode }) {
               {
                 id: "store-locator",
                 label: "Open Vodacom store finder",
-                meta: "telkom.co.za/storelocator",
+                meta: "vodacom.co.za/find-a-store",
                 action: "open_store_locator",
                 variant: "primary",
               },
@@ -3022,7 +3023,7 @@ export function DemoProvider({ children }: { children: ReactNode }) {
                 {
                   id: "store-locator",
                   label: "Open Vodacom store finder",
-                  meta: "telkom.co.za/storelocator",
+                  meta: "vodacom.co.za/find-a-store",
                   action: "open_store_locator",
                   variant: "primary",
                 },
@@ -3225,8 +3226,8 @@ export function DemoProvider({ children }: { children: ReactNode }) {
       portalSelection,
       setPortalSelection,
       guidedBundleId,
-      moniceOfferHint,
-      clearMoniceOfferHint,
+      summerDealsOfferHint,
+      clearSummerDealsOfferHint,
       startSimSelfCare,
       startBillingAssist,
       seedChatMenu,
@@ -3297,8 +3298,8 @@ export function DemoProvider({ children }: { children: ReactNode }) {
       portalSelection,
       setPortalSelection,
       guidedBundleId,
-      moniceOfferHint,
-      clearMoniceOfferHint,
+      summerDealsOfferHint,
+      clearSummerDealsOfferHint,
       startSimSelfCare,
       startBillingAssist,
       seedChatMenu,

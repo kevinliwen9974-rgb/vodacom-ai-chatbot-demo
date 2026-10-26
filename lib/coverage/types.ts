@@ -53,6 +53,6 @@ export type CoverageState = {
 };
 
 export const VODACOM_COVERAGE_MAP_URL =
-  "https://www.telkom.co.za/check-coverage";
+  "https://myvodacom.secure.vodacom.co.za";
 export const VODACOM_5G_EXPLORE_URL = VODACOM_COVERAGE_MAP_URL;
 export const VODACOM_FIBRE_EXPLORE_URL = VODACOM_COVERAGE_MAP_URL;

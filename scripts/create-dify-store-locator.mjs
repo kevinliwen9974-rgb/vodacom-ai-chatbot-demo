@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 /**
- * Create a NEW Dify workflow app "Telkom-Store-Locator" via Console API.
+ * Create a NEW Dify workflow app "Vodacom-Store-Locator" via Console API.
  * Does not modify existing apps.
  *
- * Usage (from telkom-demo/):
+ * Usage (from vodacom-demo/):
  *   DIFY_CONSOLE_EMAIL=... DIFY_CONSOLE_PASSWORD=... node scripts/create-dify-store-locator.mjs
  */
 const BASE = (process.env.DIFY_CONSOLE_URL || "http://182.160.17.112").replace(
@@ -117,7 +117,7 @@ async function main() {
   }
   const apps = list.data || [];
   const existing = (Array.isArray(apps) ? apps : []).find(
-    (a) => a.name === "Telkom-Store-Locator",
+    (a) => a.name === "Vodacom-Store-Locator",
   );
   let appId = existing?.id;
   if (existing) {
@@ -127,10 +127,10 @@ async function main() {
       method: "POST",
       headers,
       body: JSON.stringify({
-        name: "Telkom-Store-Locator",
+        name: "Vodacom-Store-Locator",
         mode: "workflow",
         description:
-          "Telkom demo store locator — ranks catalogue by lat/lng or suburb query. Do not delete.",
+          "Vodacom demo store locator — ranks catalogue by lat/lng or suburb query. Do not delete.",
         icon_type: "emoji",
         icon: "📍",
         icon_background: "#FFEAD5",
@@ -166,7 +166,7 @@ async function main() {
   }
 
   if (tokenOut && !String(tokenOut).includes("*")) {
-    console.log("\nAdd to telkom-demo/.env.local:\n");
+    console.log("\nAdd to vodacom-demo/.env.local:\n");
     console.log(`DIFY_STORE_API_KEY=${tokenOut}`);
     // Write into .env.local if present
     const fs = await import("fs");

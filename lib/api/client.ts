@@ -8,7 +8,7 @@ function createSessionId() {
 
 export function getClientSessionId(): string {
   if (typeof window === "undefined") return "sess_ssr";
-  const key = "telkom_demo_sid";
+  const key = "vodacom_demo_sid";
   try {
     let id = localStorage.getItem(key);
     if (!id) {

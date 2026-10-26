@@ -1,7 +1,7 @@
-# Telkom-Store-Locator — paused
+# Vodacom-Store-Locator — paused
 
 **Demo currently does NOT call Dify for stores.**  
-SIM flow opens the official [Telkom Store Locator](https://www.telkom.co.za/storelocator) in a new tab (`open_store_locator`), then continues booking/payment in chat.
+SIM flow opens the official [Vodacom Store Locator](https://www.vodacom.co.za/storelocator) in a new tab (`open_store_locator`), then continues booking/payment in chat.
 
 Local Haversine helpers in `lib/ai/stores-locate.ts` remain unused by the primary UX.
 
@@ -18,7 +18,7 @@ Scripts below remain for a later re-enable; do **not** edit other apps on http:/
 ## Re-enable Dify later (optional)
 
 ```bash
-cd /Users/shenbinchang/Documents/VDC/telkom-demo
+cd /Users/shenbinchang/Documents/VDC/vodacom-demo
 DIFY_CONSOLE_EMAIL='…' DIFY_CONSOLE_PASSWORD='…' \
   node scripts/create-dify-store-locator.mjs
 DIFY_CONSOLE_EMAIL='…' DIFY_CONSOLE_PASSWORD='…' \

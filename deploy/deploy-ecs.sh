@@ -1,12 +1,12 @@
-# Telkom demo — ECS deploy helpers
+# Vodacom demo — ECS deploy helpers
 #
 # Requires: sshpass (or key-based SSH), rsync, Node 20+ on the server.
 # Secrets stay on the machine — never commit .env.local or data/kyc scans.
 
 REMOTE_HOST="${ECS_HOST:-182.160.16.138}"
 REMOTE_USER="${ECS_USER:-root}"
-REMOTE_DIR="${TELKOM_DEMO_DIR:-/opt/telkom-demo}"
-APP_PORT="${TELKOM_DEMO_PORT:-3010}"
+REMOTE_DIR="${VODACOM_DEMO_DIR:-/opt/vodacom-demo}"
+APP_PORT="${VODACOM_DEMO_PORT:-3010}"
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
@@ -75,9 +75,9 @@ if ! command -v node >/dev/null; then
 fi
 npm ci
 npm run build
-cat > /etc/systemd/system/telkom-demo.service <<'UNIT'
+cat > /etc/systemd/system/vodacom-demo.service <<'UNIT'
 [Unit]
-Description=Telkom AI CX Demo (Next.js)
+Description=Vodacom AI CX Demo (Next.js)
 After=network.target
 
 [Service]
@@ -94,19 +94,19 @@ RestartSec=3
 WantedBy=multi-user.target
 UNIT
 systemctl daemon-reload
-systemctl enable telkom-demo
-systemctl restart telkom-demo
-systemctl --no-pager --full status telkom-demo | head -20
+systemctl enable vodacom-demo
+systemctl restart vodacom-demo
+systemctl --no-pager --full status vodacom-demo | head -20
 EOF
 
-echo "==> Nginx vhost for telkom-demo.alexsora.xyz"
+echo "==> Nginx vhost for vodacom-demo.alexsora.xyz"
 ssh_cmd bash -s <<EOF
 set -euo pipefail
-cat > /etc/nginx/conf.d/telkom-demo.conf <<'NGX'
+cat > /etc/nginx/conf.d/vodacom-demo.conf <<'NGX'
 server {
     listen 80;
     listen [::]:80;
-    server_name telkom-demo.alexsora.xyz;
+    server_name vodacom-demo.alexsora.xyz;
 
     client_max_body_size 20m;
 
@@ -128,4 +128,4 @@ systemctl reload nginx
 echo "nginx ok"
 EOF
 
-echo "Done. App should answer on http://${REMOTE_HOST} (Host: telkom-demo.alexsora.xyz) → :${APP_PORT}"
+echo "Done. App should answer on http://${REMOTE_HOST} (Host: vodacom-demo.alexsora.xyz) → :${APP_PORT}"

@@ -8,8 +8,8 @@
 
 ## Owned files
 
-- `components/sites/telkom-co-za-ca27d76c/root-8a5edab2/TelkomHomePage.tsx`
-- `components/sites/telkom-co-za-ca27d76c/shared/telkom-home.css`
+- `components/sites/vodacom-co-za-ca27d76c/root-8a5edab2/VodacomHomePage.tsx`
+- `components/sites/vodacom-co-za-ca27d76c/shared/vodacom-home.css`
 - `public/sites/vodacom-co-za/home/iphone-18-pro-bg.webp`
 - `public/sites/vodacom-co-za/home/iphone-18-pro-fg.webp`
 

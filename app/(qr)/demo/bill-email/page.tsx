@@ -17,7 +17,7 @@ export default function ShenBillEmailPage() {
           Subject: Vodacom Tax Invoice &amp; Statement - Account: 908214455 - Oct 2026
         </span>
         <a
-          href="/demo/shen-telkom-invoice.html"
+          href="/demo/li-wen-vodacom-invoice.html"
           target="_blank"
           rel="noreferrer"
           className="ml-auto font-semibold text-[var(--blue)] underline"
@@ -27,7 +27,7 @@ export default function ShenBillEmailPage() {
       </div>
       <iframe
         title="Vodacom invoice email — Li Wen"
-        src="/demo/shen-telkom-invoice.html"
+        src="/demo/li-wen-vodacom-invoice.html"
         className="min-h-0 w-full flex-1 border-0 bg-white"
       />
     </div>

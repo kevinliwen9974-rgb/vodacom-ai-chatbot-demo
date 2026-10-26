@@ -1,4 +1,4 @@
-import type { TopUpBundle } from "@/components/sites/qr-telkom-co-za-50a80143/shared/catalog";
+import type { TopUpBundle } from "@/components/sites/qr-vodacom-co-za-50a80143/shared/catalog";
 
 export type PortalCandidate = {
   id: string;
@@ -29,7 +29,7 @@ export type PortalEvent =
       force?: boolean;
     }
   | {
-      kind: "monice_browse";
+      kind: "summer_deals_browse";
       category: string;
       selectedId: string;
       viewedOfferIds: string[];
@@ -42,7 +42,7 @@ export type PortalEvent =
       }>;
     }
   | {
-      kind: "monice_compare";
+      kind: "summer_deals_compare";
       category: string;
       selectedId: string;
       viewedOfferIds: string[];
@@ -55,7 +55,7 @@ export type PortalEvent =
       }>;
     }
   | {
-      kind: "monice_checkout_intent";
+      kind: "summer_deals_checkout_intent";
       category: string;
       selectedId: string;
       viewedOfferIds: string[];

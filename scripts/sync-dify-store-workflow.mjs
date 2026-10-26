@@ -1,16 +1,16 @@
 #!/usr/bin/env node
 /**
- * Sync a real ranking workflow into Telkom-Store-Locator (Code node).
+ * Sync a real ranking workflow into Vodacom-Store-Locator (Code node).
  * Pattern inspired by Transnet-dify: pure workflow + code tools, no Agent.
  *
- * Usage (from telkom-demo/):
+ * Usage (from vodacom-demo/):
  *   DIFY_CONSOLE_EMAIL=... DIFY_CONSOLE_PASSWORD=... node scripts/sync-dify-store-workflow.mjs
  */
 const BASE = (process.env.DIFY_CONSOLE_URL || "http://182.160.17.112").replace(
   /\/$/,
   "",
 );
-const APP_NAME = "Telkom-Store-Locator";
+const APP_NAME = "Vodacom-Store-Locator";
 
 function encryptPassword(plain) {
   return Buffer.from(String(plain), "utf8").toString("base64");
@@ -91,12 +91,12 @@ function main({ query, lat, lng, catalog }) {
   let stores = parseCatalog(catalog);
   if (!stores.length) {
     stores = [
-      {id:'store-sandton',name:'Telkom Sandton City',address:'Sandton City Mall, Johannesburg',city:'Johannesburg',lat:-26.1086,lng:28.0517},
-      {id:'store-rosebank',name:'Telkom The Zone @ Rosebank',address:'The Zone, Oxford Rd, Rosebank',city:'Johannesburg',lat:-26.1456,lng:28.0416},
-      {id:'store-canal',name:'Telkom Canal Walk',address:'Canal Walk Shopping Centre, Cape Town',city:'Cape Town',lat:-33.8925,lng:18.5112},
-      {id:'store-vna',name:'Telkom V&A Waterfront',address:'V&A Waterfront, Cape Town',city:'Cape Town',lat:-33.9036,lng:18.4204},
-      {id:'store-gateway',name:'Telkom Gateway',address:'Gateway Theatre of Shopping, Durban',city:'Durban',lat:-29.7265,lng:31.0654},
-      {id:'store-menlyn',name:'Telkom Menlyn Maine',address:'Menlyn Maine Central Square, Pretoria',city:'Pretoria',lat:-25.7865,lng:28.2773}
+      {id:'store-sandton',name:'Vodacom Sandton City',address:'Sandton City Mall, Johannesburg',city:'Johannesburg',lat:-26.1086,lng:28.0517},
+      {id:'store-rosebank',name:'Vodacom The Zone @ Rosebank',address:'The Zone, Oxford Rd, Rosebank',city:'Johannesburg',lat:-26.1456,lng:28.0416},
+      {id:'store-canal',name:'Vodacom Canal Walk',address:'Canal Walk Shopping Centre, Cape Town',city:'Cape Town',lat:-33.8925,lng:18.5112},
+      {id:'store-vna',name:'Vodacom V&A Waterfront',address:'V&A Waterfront, Cape Town',city:'Cape Town',lat:-33.9036,lng:18.4204},
+      {id:'store-gateway',name:'Vodacom Gateway',address:'Gateway Theatre of Shopping, Durban',city:'Durban',lat:-29.7265,lng:31.0654},
+      {id:'store-menlyn',name:'Vodacom Menlyn Maine',address:'Menlyn Maine Central Square, Pretoria',city:'Pretoria',lat:-25.7865,lng:28.2773}
     ];
   }
 

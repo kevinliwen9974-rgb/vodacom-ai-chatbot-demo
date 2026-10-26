@@ -1,8 +1,8 @@
 import type { Product } from "@/types";
 import {
-  MONICE_OFFERS,
+  SUMMER_DEALS_OFFERS,
   TOPUP_BUNDLES,
-} from "@/components/sites/qr-telkom-co-za-50a80143/shared/catalog";
+} from "@/components/sites/qr-vodacom-co-za-50a80143/shared/catalog";
 
 export const PRODUCTS: Product[] = [
   {
@@ -120,7 +120,7 @@ function portalAsProduct(): Product[] {
       effectiveTo: null,
     };
   });
-  const monice = MONICE_OFFERS.map(
+  const summerDeals = SUMMER_DEALS_OFFERS.map(
     (o): Product => ({
       id: o.id,
       name: o.title,
@@ -137,12 +137,12 @@ function portalAsProduct(): Product[] {
       smsAllowance: 0,
       eligibility: ["prepaid"],
       promotionalStatus: "standard",
-      tagline: `Mo'Nice · ${o.validityDays} days`,
+      tagline: `Summer Deals · ${o.validityDays} days`,
       effectiveFrom: "2026-01-01",
       effectiveTo: null,
     }),
   );
-  return [...topup, ...monice];
+  return [...topup, ...summerDeals];
 }
 
 const PORTAL_PRODUCTS = portalAsProduct();
