@@ -1,0 +1,10 @@
+.git
+.next
+node_modules
+.env*
+.agents
+.tmp
+docs
+deploy
+*.eml
+npm-debug.log*

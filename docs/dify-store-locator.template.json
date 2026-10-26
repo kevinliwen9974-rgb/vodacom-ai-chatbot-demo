@@ -1,0 +1,31 @@
+{
+  "version": "0.1.0",
+  "kind": "workflow-template",
+  "name": "Vodacom-Store-Locator",
+  "description": "Import or recreate as a NEW Dify workflow. Do not overwrite existing apps. Inputs: query, lat, lng, catalog. Output: stores JSON ranked by distance or city match.",
+  "inputs": {
+    "query": { "type": "string", "required": false },
+    "lat": { "type": "string", "required": false },
+    "lng": { "type": "string", "required": false },
+    "catalog": { "type": "paragraph", "required": true }
+  },
+  "outputs": {
+    "stores": {
+      "type": "json",
+      "example": [
+        {
+          "id": "store-sandton",
+          "name": "Vodacom Sandton City",
+          "address": "Sandton City Mall, Johannesburg",
+          "city": "Johannesburg",
+          "lat": -26.1086,
+          "lng": 28.0517,
+          "distanceKm": 2.4
+        }
+      ]
+    }
+  },
+  "suggested_nodes": [
+    "Start → optional HTTP Nominatim geocode → Code/LLM rank catalog → End(stores)"
+  ]
+}

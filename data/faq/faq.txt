@@ -1,0 +1,1487 @@
+# Vodacom FAQ knowledge base
+# Refreshed 2026-10-24 from official Vodacom Help and Support pages.
+# Answers are concise paraphrases; each entry retains its official source URL.
+
+Question1: Which price plan would suit me?
+Answer1: Powerflex: Month-to-month, no contract or credit check. Choose 7GB, 17GB, 20GB or 22GB Anytime data with minutes and SMS. Change or cancel anytime. Prepaid plans include Power Pack (double data) and NXT LVL (youth social bundles). Vodacom RED bundles airtime, data and VodaPay rewards. SIM-only plans give data, minutes and texts without a handset.
+Source1: https://www.vodacom.co.za/vodacom/help/switch-to-vodacom
+
+Question2: I've switched to Vodacom but why can't I connect to the network yet?
+Answer2: If your port was approved today, your number will be ported between 19:30 and 23:30 tonight. If still not connected, visit a Vodacom Shop or call Customer Care on 082 135.
+Source2: https://www.vodacom.co.za/vodacom/help/switch-to-vodacom
+
+Question3: How to port (switch) a Contract number to Vodacom?
+Answer3: Visit a Vodacom Shop with your ID or passport, proof of residence, 3 months’ bank statements (stamped), and 3 months’ payslips. We’ll do a credit check and request port approval from your current provider. Once approved, sign your new contract and receive your Vodacom SIM and equipment.
+Source3: https://www.vodacom.co.za/vodacom/help/switch-to-vodacom
+
+Question4: How long will it take to port (switch) my cellphone number?
+Answer4: Ports are processed on weekdays (excluding public holidays) between 19:30 and 23:30. You can choose same-day porting or a date up to 30 days ahead.
+Source4: https://www.vodacom.co.za/vodacom/help/switch-to-vodacom
+
+Question5: How do I port (switch) a Prepaid number to Vodacom?
+Answer5: Visit a Vodacom Shop with your ID or passport and proof of residence. Or, if your current SIM is RICA-registered, SMS 'portme' followed by your new Vodacom Prepaid SIM number (e.g. 'portme 1234567789808') to 0827678287. Wait for confirmation SMS.
+Source5: https://www.vodacom.co.za/vodacom/help/switch-to-vodacom
+
+Question6: Will it take the same amount of time to switch when I initiate a port via SMS?
+Answer6: Yes. If approved today, your Prepaid number will be ported between 19:30 and 23:30 tonight — except on weekends and public holidays.
+Source6: https://www.vodacom.co.za/vodacom/help/switch-to-vodacom
+
+Question7: What is the difference between the My Vodacom App and VodaPay?
+Answer7: My Vodacom App was for checking balances and buying bundles. VodaPay is a full Super App: it includes those features plus money transfers, bill payments, shopping, and digital lifestyle management. Vodacom recommends switching to VodaPay.
+Source7: https://www.vodacom.co.za/vodacom/help/vodapay-app-support
+
+Question8: How do I register for VodaPay?
+Answer8: Download VodaPay from Apple App Store, Google Play Store or Huawei AppGallery. Open the app, enter your cellphone number, verify with the OTP sent to you, then follow prompts to set up your profile and create a 6-digit PIN.
+Source8: https://www.vodacom.co.za/vodacom/help/vodapay-app-support
+
+Question9: Why is the VodaPay app not opening or crashing?
+Answer9: Check for app updates. On Android: Settings > Apps > VodaPay > Storage > Clear Cache. Ensure mobile data is switched on — VodaPay is data-free but requires data to be enabled.
+Source9: https://www.vodacom.co.za/vodacom/help/vodapay-app-support
+
+Question10: How do I reset my VodaPay login PIN?
+Answer10: On the login screen, tap 'Forgot PIN?'. Verify identity using an OTP and security questions. After resetting, you may need to re-link your bank cards for security.
+Source10: https://www.vodacom.co.za/vodacom/help/vodapay-app-support
+
+Question11: How do I access my Vodamail account?
+Answer11: Log in via the Vodacom webmail portal. On a smartphone, add Vodamail to your mail app using: Incoming server — pop.vodamail.co.za; Outgoing server — smtp.vodamail.co.za.
+Source11: https://www.vodacom.co.za/vodacom/help/vodapay-app-support
+
+Question12: How do I link my bank card to VodaPay?
+Answer12: In VodaPay, go to Wallet > Add Card and enter your card details securely. A R0.00 or R1.00 verification transaction will be made. Once verified, you can buy airtime, pay bills and shop in the VodaPay Mall.
+Source12: https://www.vodacom.co.za/vodacom/help/vodapay-app-support
+
+Question13: Is VodaPay really data free to use?
+Answer13: Yes. For Vodacom customers, using VodaPay does not consume data. You can check balances, browse the mall and chat with TOBi even with zero data balance.
+Source13: https://www.vodacom.co.za/vodacom/help/vodapay-app-support
+
+Question14: How do I manage my subscriptions (Prime Video, Showmax, etc.) in the app?
+Answer14: Open VodaPay, go to My Account > Manage Subscriptions. View, activate or cancel digital services linked to your Vodacom bill with one tap.
+Source14: https://www.vodacom.co.za/vodacom/help/vodapay-app-support
+
+Question15: Can I use VodaPay on a rooted or jailbroken device?
+Answer15: No. For security, VodaPay is not supported on rooted or jailbroken devices. The app will automatically disable itself if it detects a compromised operating system.
+Source15: https://www.vodacom.co.za/vodacom/help/vodapay-app-support
+
+Question16: How do I find my VodaPay Rewards?
+Answer16: Tap the Rewards tab at the bottom of the VodaPay home screen. View your VodaBucks balance, claim coupons, play games, and spend rewards in the VodaBucks Store.
+Source16: https://www.vodacom.co.za/vodacom/help/vodapay-app-support
+
+Question17: What is the purpose of the customer service call centre?
+Answer17: The Call Centre provides real-time assistance to Vodacom customers with disabilities. It offers accessible support so you can stay connected, get help, and be independent.
+Source17: https://www.vodacom.co.za/vodacom/help/specific-needs
+
+Question18: Who may use the dedicated customer service call centre?
+Answer18: Available to customers with physical disabilities, DeafBlindness, learning or mental disabilities, speech impairment, Deafness (using South African Sign Language), or visual or hearing impairments.
+Source18: https://www.vodacom.co.za/vodacom/help/specific-needs
+
+Question19: What types of queries can the call centre address?
+Answer19: Any query, including: contract upgrades or new contracts; billing and account issues; network problems; difficulty making or receiving calls; product or service information; and help registering your disability.
+Source19: https://www.vodacom.co.za/vodacom/help/specific-needs
+
+Question20: What are the operating hours of the call centre?
+Answer20: Weekdays from 09:00 to 18:00, excluding public holidays.
+Source20: https://www.vodacom.co.za/vodacom/help/specific-needs
+
+Question21: Do I have to register my disability to contact the call centre?
+Answer21: No registration needed for: Call 082 12580; SMS 12580; or email support@vodacom.co.za. Registration is required for Live Chat and Video Call.
+Source21: https://www.vodacom.co.za/vodacom/help/specific-needs
+
+Question22: How do I register my disability to use the services?
+Answer22: Register via: WhatsApp (082 009 8624) → ‘Specific Needs’ → follow prompts; VodaPay App → ‘Support’ → ‘Tobi’ → follow prompts; or website → ‘Chat to Tobi’ on https://www.vodacom.co.za/vodacom/shopping/v/specific-needs-persons-with-communication-barriers.
+Source22: https://www.vodacom.co.za/vodacom/help/specific-needs
+
+Question23: How do I contact the Specific Needs Contact Centre?
+Answer23: Call 082 12580 → select ‘Speak to a Consultant’; SMS 12580; email support@vodacom.co.za. For Live Chat (registered Deaf/hearing/speech impaired only): WhatsApp (082 009 8624) → ‘Specific Needs’ → ‘National Relay (NRS)’ → ‘Message Chat Relay’ → ‘Go to live chat’; VodaPay App → ‘Support’ → ‘Tobi’ → same path; or website → https://www.vodacom.co.za/vodacom/shopping/v/specific-needs-persons-with-communication-barriers → ‘Chat To Tobi’ → enter number → select options. For Video Call (registered SASL users only): same paths but choose ‘Video Relay’ → ‘Ready for video call’.
+Source23: https://www.vodacom.co.za/vodacom/help/specific-needs
+
+Question24: What is required to make a video call?
+Answer24: A good internet connection and a tablet, smartphone or computer with a webcam. Video calls and live chat may incur data charges from your internet provider.
+Source24: https://www.vodacom.co.za/vodacom/help/specific-needs
+
+Question25: Will I be charged when contacting the Call Centre?
+Answer25: NRS relay services are free for Vodacom customers using a Vodacom SIM. Video calls and live chat may incur data charges from your internet provider.
+Source25: https://www.vodacom.co.za/vodacom/help/specific-needs
+
+Question26: Will the services work when I am roaming?
+Answer26: SMS and other channels work overseas but will be charged at roaming rates.
+Source26: https://www.vodacom.co.za/vodacom/help/specific-needs
+
+Question27: Will my information be kept confidential?
+Answer27: Yes. Vodacom complies with its Privacy Policy (https://www.vodacom.co.za/vodacom/terms/privacy-policy) and all applicable laws. SASL interpreters (SASLIs) sign a privacy declaration aligned with the SA Sign Language Code of Ethics.
+Source27: https://www.vodacom.co.za/vodacom/help/specific-needs
+
+Question28: Where can I find more information about Vodacom’s exclusive accessibility benefits?
+Answer28: Visit the Specific Needs section: https://www.vodacom.co.za/vodacom/shopping/v/specific-needs.
+Source28: https://www.vodacom.co.za/vodacom/help/specific-needs
+
+Question29: How do I check which active subscriptions are linked to my Vodacom account?
+Answer29: Check via: USSD *135# → Services → Content Services → View Active Subscriptions; VodaPay App → My Account → Manage Subscriptions; or SMS ‘STATUS’ to 31050.
+Source29: https://www.vodacom.co.za/vodacom/help/content-services-and-subscriptions
+
+Question30: How do I stop or unsubscribe from unwanted content services?
+Answer30: Cancel via: USSD *135*997# → choose ‘Unsubscribe All’ or individual services; or SMS ‘STOP ALL’ to 31050. You’ll get a confirmation SMS once cancelled.
+Source30: https://www.vodacom.co.za/vodacom/help/content-services-and-subscriptions
+
+Question31: How do I link my Amazon Prime Video or Showmax to my Vodacom bill?
+Answer31: If your plan includes a streaming promotion: wait for the activation SMS from Vodacom, open the link to the Vodacom Entertainment portal, and log in with your Vodacom number to create or link your streaming account. The subscription fee will be billed to your Vodacom account or deducted from airtime.
+Source31: https://www.vodacom.co.za/vodacom/help/content-services-and-subscriptions
+
+Question32: I see subscriptions or add-ons I did not request. What should I do?
+Answer32: These may be WASP or VAS subscriptions. You can request a review, dispute the charges, or cancel the services.
+Source32: https://www.vodacom.co.za/vodacom/help/content-services-and-subscriptions
+
+Question33: How do I get usage notifications?
+Answer33: Vodacom sends SMS notifications at 50%, 80%, 95%, and 100% data, voice, and SMS usage. Smart notifications are sent at 50%, 80%, and 100%.
+Source33: https://www.vodacom.co.za/vodacom/help/managing-your-data
+
+Question34: How do I extend my data?
+Answer34: All Vodacom customers can extend the validity of a data bundle by buying another bundle of the same size and validity before the current one is depleted or expires. The validity of the original bundle extends to match the new one. You can do this multiple times as long as some data remains and the bundle hasn’t expired.
+Source34: https://www.vodacom.co.za/vodacom/help/managing-your-data
+
+Question35: How do I transfer my data?
+Answer35: You can transfer data only to other Vodacom contract customers. Top Up customers can gift data to other Top Up or Postpaid customers. Data Transfer is free for a limited time.
+Source35: https://www.vodacom.co.za/vodacom/help/managing-your-data
+
+Question36: How do I enable data limit lock?
+Answer36: Data Limit Lock controls your out-of-bundle data spend. Opt in or out via *135*130# or the VodaPay app under Data Settings.
+Source36: https://www.vodacom.co.za/vodacom/help/managing-your-data
+
+Question37: How do I opt into Data Refill?
+Answer37: If you’re opted into Data Limit Lock, your data sessions stop when you hit your out-of-bundle limit. To avoid running out, dial *135*6# to opt into Data Refill. It auto-allocates a data bundle each time your data runs out. More info: https://myvodacom.secure.vodacom.co.za/vodacom/shopping/data-refill
+Source37: https://www.vodacom.co.za/vodacom/help/managing-your-data
+
+Question38: How do I activate roaming before I leave South Africa?
+Answer38: Contract users: SMS 'CRM' to 123, dial *135*130#, or use the VodaPay app under International Roaming. Prepaid users: Roaming is usually active by default — confirm and view travel bundles by dialing *135*130#.
+Source38: https://www.vodacom.co.za/vodacom/help/international-roaming-and-calls
+
+Question39: What is the most affordable way to use data while traveling?
+Answer39: Buy a Vodacom Travel Data Bundle via the VodaPay app or *135*130#. Bundles are available for regions including Europe, USA, and Africa at lower rates than standard roaming.
+Source39: https://www.vodacom.co.za/vodacom/help/international-roaming-and-calls
+
+Question40: Will I be charged for receiving SMSs while I am abroad?
+Answer40: No. Receiving SMSs is free while roaming. You’ll only be charged for sending SMSs or making/receiving calls, depending on the country.
+Source40: https://www.vodacom.co.za/vodacom/help/international-roaming-and-calls
+
+Question41: What is 'Africa Roaming' and which countries are included?
+Answer41: Africa Roaming offers discounted call and data rates on Vodacom-partner networks in countries including DRC, Lesotho, Mozambique, and Tanzania.
+Source41: https://www.vodacom.co.za/vodacom/help/international-roaming-and-calls
+
+Question42: How do I check the roaming rates for my destination?
+Answer42: Visit the Vodacom International Roaming page or use the VodaPay app. Enter your destination country and price plan to see call, SMS, and data rates.
+Source42: https://www.vodacom.co.za/vodacom/help/international-roaming-and-calls
+
+Question43: Can I use my local South Africa data bundles while roaming?
+Answer43: No. Local SA data bundles only work in South Africa. Abroad, usage is billed at roaming rates or deducted from an active Travel Data Bundle.
+Source43: https://www.vodacom.co.za/vodacom/help/international-roaming-and-calls
+
+Question44: What should I do if my phone doesn’t connect to a network when I land?
+Answer44: If automatic connection fails: go to Settings > Mobile Data > Network Selection, turn off Automatic, then manually select a Vodacom-partnered network.
+Source44: https://www.vodacom.co.za/vodacom/help/international-roaming-and-calls
+
+Question45: How do I contact Vodacom Support if I am overseas?
+Answer45: Call +27 82 135 (free from a Vodacom SIM while roaming) or WhatsApp TOBi 24/7 at +27 82 009 8624.
+Source45: https://www.vodacom.co.za/vodacom/help/international-roaming-and-calls
+
+Question46: What is “Travel Data” and how does it work?
+Answer46: Travel Data gives you a daily or weekly data allowance in 100+ countries. You pay a flat daily fee only on days you use data, to control roaming costs.
+Source46: https://www.vodacom.co.za/vodacom/help/international-roaming-and-calls
+
+Question47: How do I make international calls from South Africa?
+Answer47: Dial 00 + country code + area code + number (drop the first 0). Example for London: 00 44 20 XXXX XXXX. Check the VodaPay app for discounted international calling bundles.
+Source47: https://www.vodacom.co.za/vodacom/help/international-roaming-and-calls
+
+Question48: What happens after I submit the required documents?
+Answer48: You’ll get an email with an auto-generated reference number and key request details. A Vodacom consultant will contact you within 3 working days with feedback and next steps.
+Source48: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question49: How can I follow up on a deceased account request?
+Answer49: Email [email protected] and put your service request reference number in the subject line. Or call 082 1905 and have your reference number ready.
+Source49: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question50: What file formats are accepted for document submission?
+Answer50: Only .JPEG or .PDF files are accepted.
+Source50: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question51: What is the difference between an executor and next of kin?
+Answer51: An executor is appointed to manage the deceased’s estate. Next of kin are the closest living blood relatives or legal relations — e.g., spouse or children.
+Source51: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question52: What is an executorship letter?
+Answer52: An executorship letter confirms the person named as executor to manage the deceased’s estate and assets.
+Source52: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question53: How long does it take for the R5,000 claim benefit to be paid?
+Answer53: Payment is processed within 5 working days after all required documents and banking details are verified and approved.
+Source53: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question54: Can the R5,000 funeral benefit be paid to a next of kin, family member, or third party?
+Answer54: Yes — if the customer had Contract Cover Plus. Payment goes first to the surviving spouse; if none, equally to children; if children are minors, to their legal guardian; if none apply, to the late estate.
+Source54: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question55: What documents are required for the R5,000 benefit pay-out?
+Answer55: Spouse: marriage certificate or proof of relationship. Children: unabridged birth certificate or proof of relationship. Minor children: unabridged birth certificate + guardianship proof (e.g., adoption papers or court-appointed letter). Late estate details if applicable.
+Source55: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question56: What banking proof is needed for the benefit payment?
+Answer56: Proof of bank account details — the account name and surname must match the eligible beneficiary’s name on the relationship documents.
+Source56: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question57: What if there is no late estate account or the account has been closed?
+Answer57: If no eligible beneficiary exists and no late estate account, the executor must open one. If the account was closed, it must be reopened to receive the R5,000 benefit.
+Source57: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question58: How long does prepaid conversion take?
+Answer58: Prepaid conversion takes up to 48 hours after all required documents and information are received.
+Source58: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question59: How long does contract cancellation take?
+Answer59: Contract cancellation takes up to 48 hours after all required documents and information are received.
+Source59: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question60: How long does transfer of ownership take for a mobile line?
+Answer60: Time depends on credit vetting outcome. Contact the store where you applied for the transfer.
+Source60: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question61: How long does transfer of ownership take for a fibre line?
+Answer61: This question is mislabelled. The answer refers to a deceased estate benefit, not fibre ownership transfer. If there’s no late estate account, the executor must open one at a bank to receive the R5,000 benefit. If the late estate account was closed, it must be reopened for the benefit payment.
+Source61: https://www.vodacom.co.za/vodacom/help/deceased-accounts-management
+
+Question62: How do I contact the Vodacom Business support team?
+Answer62: SME & Small Business: call 082 1960. Large Enterprise & Corporate: call 082 1940. Email: business.support@vodacom.co.za — include your account number and query details.
+Source62: https://www.vodacom.co.za/vodacom/help/vodacom-business-and-corporate-support
+
+Question63: What is the Vodacom Business Self Service portal?
+Answer63: A dashboard for authorised administrators to manage multiple lines, view consolidated invoices, track fleet usage, and do bulk SIM swaps or activations — no store visit needed.
+Source63: https://www.vodacom.co.za/vodacom/help/vodacom-business-and-corporate-support
+
+Question64: How do I register for the Vodacom Business Converged Portal?
+Answer64: Go to the Converged Portal registration page, enter your corporate account number, complete identity verification, then set up your admin profile.
+Source64: https://www.vodacom.co.za/vodacom/help/vodacom-business-and-corporate-support
+
+Question65: Can I manage multiple business accounts from one login?
+Answer65: Yes. Administrators can link multiple Vodacom Business accounts to one profile for a unified view of all connectivity services.
+Source65: https://www.vodacom.co.za/vodacom/help/vodacom-business-and-corporate-support
+
+Question66: What services can I manage via the self-service portal?
+Answer66: Business Internet (LTE and Fibre), mobile contracts, bulk SMS, and hosted IP PBX systems.
+Source66: https://www.vodacom.co.za/vodacom/help/vodacom-business-and-corporate-support
+
+Question67: How do I set up a Corporate APN for my company?
+Answer67: Your business must have an active Corporate APN agreement. The APN name is usually unique (e.g. companyname.voda.co.za). Contact your Account Manager or call 082 1940.
+Source67: https://www.vodacom.co.za/vodacom/help/vodacom-business-and-corporate-support
+
+Question68: Can I manage my business account via the VodaPay app?
+Answer68: Yes. Individual users or small business owners can link business lines to VodaPay for balance checks, bundle purchases, and 24/7 TOBi support.
+Source68: https://www.vodacom.co.za/vodacom/help/vodacom-business-and-corporate-support
+
+Question69: How do I apply for a new Vodacom Business contract?
+Answer69: Apply online via the Vodacom Business website or at a Vodacom Franchise. Required: CIPC registration docs, proof of company address, Letter of Authority, and latest 3 months’ bank statements.
+Source69: https://www.vodacom.co.za/vodacom/help/vodacom-business-and-corporate-support
+
+Question70: What is Vodacom OneNet and how do I get support for it?
+Answer70: OneNet integrates mobile and fixed-line office phones. For call routing, virtual switchboard, or OneNet Express issues, call technical support on 082 1910.
+Source70: https://www.vodacom.co.za/vodacom/help/vodacom-business-and-corporate-support
+
+Question71: How can I monitor and limit data usage for my employees?
+Answer71: Set Spend Limits or Data Caps per line in the Business Self Service portal. This stops out-of-bundle usage unless a top-up is approved.
+Source71: https://www.vodacom.co.za/vodacom/help/vodacom-business-and-corporate-support
+
+Question72: Does Vodacom Business offer IoT (Internet of Things) support?
+Answer72: Yes. Support covers M2M and IoT SIMs for tracking, smart meters, and POS devices. Call 082 1960 and ask for the IoT Managed Services team.
+Source72: https://www.vodacom.co.za/vodacom/help/vodacom-business-and-corporate-support
+
+Question73: How do I download consolidated tax invoices for my business?
+Answer73: Authorised administrators can log into the Business Self Service portal and download historical organisation-wide invoices in PDF or CSV format.
+Source73: https://www.vodacom.co.za/vodacom/help/vodacom-business-and-corporate-support
+
+Question74: My business is moving offices; how do I move my Business Fibre?
+Answer74: Give 30 days’ notice. Contact your Account Manager or call 082 1904 to check coverage at the new location and schedule decommissioning and installation.
+Source74: https://www.vodacom.co.za/vodacom/help/vodacom-business-and-corporate-support
+
+Question75: How do I perform a Vodacom SIM swap?
+Answer75: Use WhatsApp: save 082 009 8624, message TOBi to start. Or visit a Vodacom store with ID and proof of address. Or use the VodaPay app: follow activation prompts and insert the new SIM when instructed.
+Source75: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question76: What is the waiting period for a SIM swap?
+Answer76: There is a 2-hour waiting period before the SIM swap completes. An SMS is sent to the old SIM during this time. If you did not request it, call 082 135 immediately to stop it.
+Source76: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question77: I see usage after a SIM swap I did not request — what should I do?
+Answer77: This could be fraud. Report it immediately by calling 082 135 for urgent investigation.
+Source77: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question78: My SIM swap is not working
+Answer78: Your account has been flagged for potential fraud because authentication was incomplete and the device was reported as stolen.
+Source78: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question79: Can I do a SIM swap if my phone was stolen?
+Answer79: Yes, but you must first blacklist the device and bar the old SIM. Call 082 135 to do both. Then use your original number to complete the SIM swap with a new SIM.
+Source79: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question80: Why is my SIM not registering on the network?
+Answer80: The SIM may be unactivated, on the wrong network mode, have incorrect APN settings, or be faulty. Restart your device, reinsert the SIM, and set network selection to Automatic. If it still fails, visit a Vodacom store.
+Source80: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question81: Why do my calls show as private number (CLI/CLIR)?
+Answer81: Caller Line Identity Restriction may be enabled on your device or profile. Disable ‘Hide Number’ in your phone settings, or ask Customer Care to check your profile.
+Source81: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question82: How do I enable caller ID?
+Answer82: Enable ‘Show My Caller ID’ in your phone settings, or ask Customer Care to enable it on your profile.
+Source82: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question83: How do I switch between manual and automatic network selection?
+Answer83: Go to Settings → Mobile Network → Network Selection and choose Automatic, or select Vodacom manually when troubleshooting.
+Source83: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question84: How do I switch from a physical SIM to an eSIM?
+Answer84: Convert via the VodaPay app or at a Vodacom store. iPhone users (iPhone 11 or newer) can often convert directly in Mobile Data settings without a QR code.
+Source84: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question85: What should I do about eSIM/dual-SIM not working?
+Answer85: Ensure the eSIM profile is downloaded and active, assign it to calls or data as needed, restart the device, and verify APN settings.
+Source85: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question86: How do I activate an eSIM on my iPhone or Samsung?
+Answer86: iPhone: Go to Settings > Mobile Data > Add eSIM and scan the QR code (iOS 16+ required for on-device conversion). Samsung: Go to Settings > Connections > SIM Manager > Add eSIM and scan the QR code. A stable Wi-Fi connection is required.
+Source86: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question87: How do I convert my physical SIM to an eSIM?
+Answer87: Use the VodaPay app for a once-off R25 fee: Prepaid users need at least R25 airtime; contract users are billed on their next statement. Your physical SIM deactivates once the eSIM is activated.
+Source87: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question88: How do I find my PUK number if my SIM is blocked?
+Answer88: If your PIN is entered incorrectly three times, you’ll need the PUK. Find it via: VodaPay App (Account → Account Details → More Details), My Vodacom online, SMS ‘VPP’ to 31050 from another Vodacom number, or WhatsApp 082 009 8624 and ask TOBi.
+Source88: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question89: What happens if I enter the wrong PUK code too many times?
+Answer89: Entering the PUK incorrectly 10 times permanently blocks the SIM. You’ll need a new SIM and a SIM swap to keep your number.
+Source89: https://www.vodacom.co.za/vodacom/help/sim-cards-esim-and-puk
+
+Question90: What is RICA?
+Answer90: RICA is a South African legal requirement that all SIM cards — prepaid, contract, physical or eSIM — must be registered with verified personal details before use.
+Source90: https://www.vodacom.co.za/vodacom/help/rica
+
+Question91: Who needs to RICA?
+Answer91: All customers using a Vodacom SIM must be RICA registered. This includes new prepaid SIMs, eSIMs, certain SIM swaps, and anyone asked to update their RICA details.
+Source91: https://www.vodacom.co.za/vodacom/help/rica
+
+Question92: How can I RICA my Vodacom SIM?
+Answer92: Use one of these approved channels: digital self-service (recommended), in-store at Vodacom Shops or authorised dealers, or assisted digital support via Customer Care. For digital RICA: go to Vodacom’s Self RICA platform online. You can also get help from TOBi, Vodacom’s chatbot, on the VodaPay App or WhatsApp (082 009 8624).
+Source92: https://www.vodacom.co.za/vodacom/help/rica
+
+Question93: What documents do I need?
+Answer93: South African citizens: valid green ID book or smart ID card. Foreign nationals: valid passport. Proof of address may be required depending on registration type.
+Source93: https://www.vodacom.co.za/vodacom/help/rica
+
+Question94: What happens after I submit my RICA details?
+Answer94: Your details are securely verified using approved systems and trusted sources, including the Department of Home Affairs. Once verified, your SIM is activated.
+Source94: https://www.vodacom.co.za/vodacom/help/rica
+
+Question95: How will I know if my RICA was successful?
+Answer95: You’ll get an SMS from Vodacom confirming your SIM is RICA registered and activated.
+Source95: https://www.vodacom.co.za/vodacom/help/rica
+
+Question96: What if my RICA fails?
+Answer96: If verification fails, Vodacom will tell you what to do next to complete or retry registration.
+Source96: https://www.vodacom.co.za/vodacom/help/rica
+
+Question97: Does RICA cost anything?
+Answer97: No. RICA registration is free. Digital RICA is zero-rated for Vodacom customers — no data charges apply.
+Source97: https://www.vodacom.co.za/vodacom/help/rica
+
+Question98: Is my personal information safe?
+Answer98: Yes. Vodacom uses secure systems, encryption, and complies with South African data protection laws.
+Source98: https://www.vodacom.co.za/vodacom/help/rica
+
+Question99: Where can I find and download my latest Vodacom statement?
+Answer99: View or download statements for the last 6 months via: VodaPay App (My Account → My Bill), My Vodacom portal (Billing), or TOBi on WhatsApp (082 009 8624) — message ‘Send me my last invoice.’
+Source99: https://www.vodacom.co.za/vodacom/help/billing-and-statements
+
+Question100: Why is my first Vodacom bill higher than expected?
+Answer100: Your first bill includes pro-rata charges from your connection date to the end of that month, plus the full next month’s subscription. Bills normalise from month two.
+Source100: https://www.vodacom.co.za/vodacom/help/billing-and-statements
+
+Question101: Why is my bill higher than expected?
+Answer101: It may include extra usage, subscription fees, or administrative charges not covered by your standard plan.
+Source101: https://www.vodacom.co.za/vodacom/help/billing-and-statements
+
+Question102: What is my outstanding balance right now?
+Answer102: Check your current balance in the My Vodacom portal or VodaPay App under ‘Billing’ or ‘Account Summary’. Or ask Customer Care or dial *135#.
+Source102: https://www.vodacom.co.za/vodacom/help/billing-and-statements
+
+Question103: Where can I find my Vodacom account number?
+Answer103: It’s on your invoice or statement. Use it as a 9-digit number without dashes when paying.
+Source103: https://www.vodacom.co.za/vodacom/help/billing-and-statements
+
+Question104: How do price increases apply to my plan?
+Answer104: Annual price increases may apply per Vodacom’s terms. You’ll be told in advance, and the new rate starts on the effective date.
+Source104: https://www.vodacom.co.za/vodacom/help/billing-and-statements
+
+Question105: How do I make an EFT payment to Vodacom?
+Answer105: Add Vodacom (Pty) Ltd as a public beneficiary on your bank app. Use your 9-digit Vodacom account number (top right of your statement) as the reference. EFTs take up to 48 hours to reflect.
+Source105: https://www.vodacom.co.za/vodacom/help/payments-and-payment-arrangements
+
+Question106: Can I pay my Vodacom account with cash?
+Answer106: Yes. Pay cash at any Vodacom Walk-in Customer Care outlet, Standard Bank, ABSA, FNB or Nedbank branches, or selected retailers like Pick n Pay, Checkers and PEP using your Pay@ reference number.
+Source106: https://www.vodacom.co.za/vodacom/help/payments-and-payment-arrangements
+
+Question107: What is a Promise to Pay (PTP) or Payment Arrangement?
+Answer107: A Promise to Pay is a formal agreement where you commit to settling an outstanding balance — in full or part — on a specified future date.
+Source107: https://www.vodacom.co.za/vodacom/help/payments-and-payment-arrangements
+
+Question108: How do I set up a Promise to Pay or Payment Arrangement?
+Answer108: If your account is overdue: use TOBi and say 'Payment Arrangement'; dial *135# → My Account → Arrears Self Help; or call 082 135.
+Source108: https://www.vodacom.co.za/vodacom/help/payments-and-payment-arrangements
+
+Question109: What should I do if my payment hasn’t reflected after 48 hours?
+Answer109: Email your Proof of Payment (POP) to collections@vodacom.co.za. Put your Vodacom account number in the subject line.
+Source109: https://www.vodacom.co.za/vodacom/help/payments-and-payment-arrangements
+
+Question110: How do I get an Account Paid in Full letter?
+Answer110: After settling your final balance, call 082 135 or visit a Vodacom store. The letter is issued within 24–48 hours after payment reflects.
+Source110: https://www.vodacom.co.za/vodacom/help/payments-and-payment-arrangements
+
+Question111: Which payment methods can I use for my fibre account?
+Answer111: Use debit order, VodaPay, Vodacom stores, online banking, ATMs, or retail partners like Shoprite and Checkers.
+Source111: https://www.vodacom.co.za/vodacom/help/payments-and-payment-arrangements
+
+Question112: Why did my debit order bounce or double-debit?
+Answer112: A debit order bounces due to insufficient funds, bank processing issues, or submission after the banking cut-off time. Late resubmissions process only on the next working day. It may also be rejected during contract migration (e.g., prepaid to contract) if migration is still pending.
+Source112: https://www.vodacom.co.za/vodacom/help/payments-and-payment-arrangements
+
+Question113: When will my manual EFT reflect?
+Answer113: Manual EFTs usually reflect within 24–48 hours. Payments made after hours, on weekends or public holidays reflect on the next business day.
+Source113: https://www.vodacom.co.za/vodacom/help/payments-and-payment-arrangements
+
+Question114: How do penalty fees work after a returned debit?
+Answer114: A penalty fee is charged each time a debit order fails — e.g., due to insufficient funds or bank decline.
+Source114: https://www.vodacom.co.za/vodacom/help/payments-and-payment-arrangements
+
+Question115: Can I get a refund for overpayment?
+Answer115: Yes. Request a refund once overpayment is verified. It will be processed per Vodacom’s standard refund procedure.
+Source115: https://www.vodacom.co.za/vodacom/help/payments-and-payment-arrangements
+
+Question116: Why is there a penalty after a returned debit?
+Answer116: A fee is charged each time a debit order is returned unpaid — e.g., due to insufficient funds or bank decline.
+Source116: https://www.vodacom.co.za/vodacom/help/payments-and-payment-arrangements
+
+Question117: How do I arrange a payment plan?
+Answer117: Call Vodacom Collections or Customer Care on 082 135. A consultant will assess your account and help set up a Promise-to-Pay date if eligible.
+Source117: https://www.vodacom.co.za/vodacom/help/payments-and-payment-arrangements
+
+Question118: Will my services be restored once I make a payment arrangement?
+Answer118: No. Services are restored only after the agreed payment is received and correctly allocated.
+Source118: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question119: What happens if I miss my Promise to Pay date?
+Answer119: Service restrictions may be applied or remain active until the missed payment is made.
+Source119: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question120: What does my account status mean?
+Answer120: Your account status shows whether it is in collections, fully paid, under review, or needs action.
+Source120: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question121: Does updating my account status restore services?
+Answer121: No. Updating your account status is administrative only and does not restore services.
+Source121: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question122: What happens if my account is in arrears?
+Answer122: You must pay immediately to avoid suspension. Services resume once the payment reflects on your account.
+Source122: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question123: Why has my account been handed over to a Debt Collection Agency?
+Answer123: Accounts unpaid for an extended period may be referred to an approved Debt Collection Agency for recovery.
+Source123: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question124: Can Subscriber Collections remove my account from a Debt Collection Agency?
+Answer124: No. Once handed over, all payments and arrangements must be made directly with the assigned Debt Collection Agency.
+Source124: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question125: I would like to blacklist or remove a blacklist from my device
+Answer125: Devices are blacklisted if the account is in arrears, under legal review, or reported stolen. An unblacklisting request has been submitted with the completed form to the Blacklisting Team.
+Source125: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question126: Can you manually unlock my line?
+Answer126: No. Lines reconnect automatically once payment is allocated and all reinstatement requirements are met.
+Source126: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question127: Who do I contact in collections to fast-track?
+Answer127: Call the collections number on your suspension SMS, or contact Customer Care to escalate to Collections.
+Source127: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question128: Why were multiple numbers suspended?
+Answer128: All numbers linked to the same overdue account may be suspended together.
+Source128: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question129: Can I set a promise-to-pay and stay connected?
+Answer129: A Promise-to-Pay may delay suspension, depending on your account status and eligibility.
+Source129: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question130: Will a restart or SIM reseat help now?
+Answer130: Restarting your phone or reseating the SIM only helps after reconnection is processed — it won’t bypass a non-payment suspension.
+Source130: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question131: Can the agent see my payment on your system?
+Answer131: Yes — once your payment clears with the bank and is allocated on our system.
+Source131: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question132: Why is my line still blocked after I have made payment?
+Answer132: Payments take time to clear and allocate. Your line unlocks only after full clearance and correct allocation.
+Source132: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question133: How long does it take to unlock a line after payment?
+Answer133: Unlocking starts once the payment appears on your account and all reinstatement requirements are met.
+Source133: https://www.vodacom.co.za/vodacom/help/suspensions-collections-and-reconnections
+
+Question134: How do I change my debit order date?
+Answer134: Chat to TOBi on WhatsApp (082 009 8624) or in the VodaPay app and say “Change debit order date.” You must request this at least 7 business days before your next debit.
+Source134: https://www.vodacom.co.za/vodacom/help/account-services-add-ons-and-support
+
+Question135: What is DebiCheck and why do I need to approve it?
+Answer135: DebiCheck is a secure debit order system requiring electronic approval from your bank. It prevents unauthorised or incorrect debits. You’ll get a bank notification to approve the Vodacom mandate when starting or upgrading a contract.
+Source135: https://www.vodacom.co.za/vodacom/help/account-services-add-ons-and-support
+
+Question136: How can I stop unwanted content service charges?
+Answer136: To unsubscribe from Content Services / VAS: Dial *135# → Services → Content Services. Or use the VodaPay App: Go to Manage Subscriptions.
+Source136: https://www.vodacom.co.za/vodacom/help/account-services-add-ons-and-support
+
+Question137: What is this unexpected charge (e.g., App Store/Google Play)?
+Answer137: An unpaid debit order incurs a penalty fee. Unexpected amounts may also be from app purchases, subscriptions or digital services billed via Apple App Store or Google Play. Check transaction details and manage subscriptions in your Apple ID or Google Play account.
+Source137: https://www.vodacom.co.za/vodacom/help/account-services-add-ons-and-support
+
+Question138: Why was I transferred between departments?
+Answer138: Billing, collections and credit issues are handled by separate specialist teams. You’re routed to the correct team for faster resolution.
+Source138: https://www.vodacom.co.za/vodacom/help/account-services-add-ons-and-support
+
+Question139: What contract cover/add-ons am I billed for?
+Answer139: You may be billed for device insurance, extended warranty, VAS, or add-on bundles. Manage these via the VodaPay App or My Vodacom portal.
+Source139: https://www.vodacom.co.za/vodacom/help/account-services-add-ons-and-support
+
+Question140: I cancelled Amazon Prime by mistake. Can I reinstate it?
+Answer140: No. Amazon Prime cannot be reinstated through Vodacom. Refer to Amazon’s Terms & Conditions for cancellation and reinstatement rules.
+Source140: https://www.vodacom.co.za/vodacom/help/account-services-add-ons-and-support
+
+Question141: What happens if my contract expires and I don’t upgrade?
+Answer141: Your contract automatically becomes month-to-month. You keep your current plan and can cancel or upgrade at any time with 30 days’ notice.
+Source141: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question142: Can I switch to Prepaid and keep my number?
+Answer142: Yes. Complete your contract term or pay early cancellation fees, then migrate to prepaid after the 30-day notice period.
+Source142: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question143: Can I change my price plan during my contract?
+Answer143: Upward migrations are usually free. Downward migrations may incur a fee.
+Source143: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question144: What's my contract end date and notice requirement?
+Answer144: Your contract end date is shown in the Vodacom App. A 30-day notice period applies for changes or cancellations.
+Source144: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question145: Can I get a paid-up letter?
+Answer145: Yes — but only once your account is fully settled.
+Source145: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question146: Why is a number still active on my profile?
+Answer146: This may be due to linked profiles, pending cancellations, or porting delays.
+Source146: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question147: Can I keep my number after cancellation?
+Answer147: Yes. Either request a prepaid migration or port the number out before closing your account.
+Source147: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question148: How do I handle deceased-estate transfers?
+Answer148: Submit required estate documents to Vodacom’s Deceased Accounts team. Email: deceasedaccounts@vodacom.co.za. Subscriber collections: 082 1946. Customer care: 082 135. Download the deceased account form from the Vodacom website.
+Source148: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question149: My upgrade or contract details are incorrect. What should I do?
+Answer149: Log a formal dispute for investigation.
+Source149: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question150: Why has my credit or reversal not reflected?
+Answer150: Credits may be delayed or may not have processed successfully.
+Source150: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question151: My billed usage appears incorrect — how is that possible?
+Answer151: Background data usage by apps or the device may cause unexpected charges.
+Source151: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question152: I’m billed incorrectly for Fibre/Fixed Line — what should I check?
+Answer152: Check for installation fees, duplicated billing, missing cancellations, or incorrect charges.
+Source152: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question153: Why am I still billed after porting out?
+Answer153: Port-out delays or incomplete processing may cause continued billing.
+Source153: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question154: My device financing or trade-in amounts seem incorrect — why?
+Answer154: Financing discrepancies or missing trade-in credits may be the cause.
+Source154: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question155: Why has my refund not yet been processed?
+Answer155: Refunds may be delayed or processed incorrectly.
+Source155: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question156: Why didn’t I get pre-notice of adjustments?
+Answer156: Notices are sent via SMS, email, or app notifications to your registered contact details.
+Source156: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question157: What are the working hours for sales/after-sales?
+Answer157: Sales and after-sales operate Monday to Friday during business hours. Limited weekend support. Call 082 178 4444.
+Source157: https://www.vodacom.co.za/vodacom/help/managing-your-contract
+
+Question158: How do I check if I am eligible for an upgrade?
+Answer158: Check your upgrade date via USSD *135*502#, VodaPay App (My Account > Account Details > Upgrade Date), or WhatsApp TOBi on 082 009 8624 — type 'Upgrade'.
+Source158: https://www.vodacom.co.za/vodacom/help/upgrades
+
+Question159: When exactly can I upgrade my 24-month or 36-month contract?
+Answer159: 24-month contracts: eligible from Month 22. 36-month contracts: eligible from Month 34. Early upgrades incur an Early Upgrade fee.
+Source159: https://www.vodacom.co.za/vodacom/help/upgrades
+
+Question160: I’ve just upgraded; when will I receive my new device?
+Answer160: Delivery takes 2–5 business days. You’ll get an SMS with a tracking number once dispatched.
+Source160: https://www.vodacom.co.za/vodacom/help/upgrades
+
+Question161: Can I upgrade my contract if my account is in arrears?
+Answer161: No. Your account must be in good standing. After paying arrears, wait 24–48 hours for eligibility to update.
+Source161: https://www.vodacom.co.za/vodacom/help/upgrades
+
+Question162: I completed my upgrade online and am awaiting delivery. Why was my contract not approved?
+Answer162: Approval may fail due to device or colour being out of stock, affordability check failure, or needing a lower-tier package.
+Source162: https://www.vodacom.co.za/vodacom/help/upgrades
+
+Question163: Where's my upgrade delivery / why was it cancelled?
+Answer163: Delays may be due to stock, verification, or courier scheduling. Cancellations usually result from credit or authentication failures.
+Source163: https://www.vodacom.co.za/vodacom/help/upgrades
+
+Question164: Why did my monthly price increase after upgrade?
+Answer164: Your new device or plan instalment amount may differ, and pro-rata charges may apply.
+Source164: https://www.vodacom.co.za/vodacom/help/upgrades
+
+Question165: What are my upgrade options and eligibility?
+Answer165: Check eligibility on the VodaPay App, online at vodacom.co.za/login, or call Customer Care: Sales & Upgrades 082 178 4444.
+Source165: https://www.vodacom.co.za/vodacom/help/upgrades
+
+Question166: Can you reverse or adjust an upgrade?
+Answer166: You can reverse an upgrade only within a limited window, as per Vodacom’s guidelines.
+Source166: https://www.vodacom.co.za/vodacom/help/upgrades
+
+Question167: Can I change from SIM-only to a device deal?
+Answer167: Yes, if you meet upgrade eligibility and pass affordability checks.
+Source167: https://www.vodacom.co.za/vodacom/help/upgrades
+
+Question168: Can I downgrade my plan after upgrading?
+Answer168: Downgrades may be allowed only within a time-bound window, depending on your contract type.
+Source168: https://www.vodacom.co.za/vodacom/help/upgrades
+
+Question169: How do I activate the router or SIM from my upgrade?
+Answer169: Insert the SIM into the router, power it on, then follow the SMS or Vodacom App activation prompts.
+Source169: https://www.vodacom.co.za/vodacom/help/upgrades
+
+Question170: What is a premature cancellation?
+Answer170: Ending your Vodacom airtime agreement before its full term — 24, 36 or 48 months — i.e. before the official cancellation end date.
+Source170: https://www.vodacom.co.za/vodacom/help/premature-cancellation-guide
+
+Question171: How do I cancel my Vodacom contract prematurely?
+Answer171: 1. Request a cancellation quote from Vodacom. 2. Review and approve the quote. 3. Pay the quoted amount — use your Vodacom account number as the payment reference. 4. Email these to repairs@vodacom.co.za: ID copy, signed quote, proof of payment. Quote is valid for 14 days from issue date.
+Source171: https://www.vodacom.co.za/vodacom/help/premature-cancellation-guide
+
+Question172: What fees apply for a premature cancellation?
+Answer172: Charges may include: one month’s subscription fee, unbilled usage, outstanding account balance, and a final invoice for remaining charges — for SIM-only, device and bundle contracts.
+Source172: https://www.vodacom.co.za/vodacom/help/premature-cancellation-guide
+
+Question173: How or where can I pay premature cancellation fees?
+Answer173: Via banking app (Vodacom is a public beneficiary at ABSA, FNB, Nedbank, Standard Bank and Capitec), Vodacom walk-in outlets, or the Vodapay App.
+Source173: https://www.vodacom.co.za/vodacom/help/premature-cancellation-guide
+
+Question174: What happens when my contract ends?
+Answer174: No cancellation fee applies. You must give 30 calendar days’ notice to cancel.
+Source174: https://www.vodacom.co.za/vodacom/help/premature-cancellation-guide
+
+Question175: What do I do if my device is faulty or damaged?
+Answer175: Take it to the nearest Vodacom shop or authorised repairs outlet for assistance.
+Source175: https://www.vodacom.co.za/vodacom/help/repairs
+
+Question176: How do I track my device repair status?
+Answer176: Track 24/7 using your Job Number (from the repair receipt) and IMEI: - Online: vodacom.co.za/repair-tracking - TOBi on WhatsApp (082 009 8624): say “Track my repair” - Phone: call Repairs Desk on 082 1944
+Source176: https://www.vodacom.co.za/vodacom/help/repairs
+
+Question177: How long does a standard repair take?
+Answer177: Most repairs at Regional Repair Centres take 24–72 hours, depending on spare parts. Devices sent to the Advanced Repair Centre (ARC) may take up to 7 business days.
+Source177: https://www.vodacom.co.za/vodacom/help/repairs
+
+Question178: Can I get a loan phone while my device is being repaired?
+Answer178: Yes — subject to availability and terms — at Vodacom stores. Loan phones and modems are offered for the repair duration.
+Source178: https://www.vodacom.co.za/vodacom/help/repairs
+
+Question179: Is my device still under warranty?
+Answer179: Most devices have a 12–24 month manufacturer warranty from purchase date. You must show original proof of purchase. Physical damage, screen cracks or liquid damage voids the warranty.
+Source179: https://www.vodacom.co.za/vodacom/help/repairs
+
+Question180: What happens if my repair is out of warranty?
+Answer180: You’ll get a written quotation. You have 10 calendar days to accept it. Repairs start only after acceptance — and, if needed, payment of a deposit.
+Source180: https://www.vodacom.co.za/vodacom/help/repairs
+
+Question181: How do I log an insurance claim?
+Answer181: Submit your claim online at https://www.vodacom.co.za/vodacom/services/insurance/insurance-submit-claim. If lost or stolen: call 082 135 to block your SIM and blacklist the device; get the ITC reference number, then report to police and note the police case number. If damaged: take the device to a Vodacom Repair Centre for assessment, or download and complete the claim form, then email it to claims@vodacom.co.za or fax to 011 546 9000. Include your contact details. Note: if unrepaired, the device becomes the insurer’s property. Your new device is covered under the existing policy. Claims are only paid if the SIM listed on your policy was in use at the time of incident.
+Source181: https://www.vodacom.co.za/vodacom/help/device-insurance
+
+Question182: How do I update or change my insurance information?
+Answer182: Call Customer Care on 082 1952. You can only cancel or change your policy by calling this number — not at dealer or franchise stores. Check your details are updated after upgrades, claims, or changes to personal or device information.
+Source182: https://www.vodacom.co.za/vodacom/help/device-insurance
+
+Question183: How can I get insurance?
+Answer183: Available to Contract, Top Up and Prepaid customers. Prepaid: insure within 7 days of purchase — supply proof of purchase and valid banking details for monthly debit order. Contract/Top Up: insure within 30 days — premium added to your monthly bill (no separate debit order). Policy stays active while premiums are up to date. All premiums must be paid before a claim is processed. We don’t insure devices bought from other networks. Prepaid customers cannot insure after the first 7 days.
+Source183: https://www.vodacom.co.za/vodacom/help/device-insurance
+
+Question184: What is not covered by Vodacom cellphone insurance?
+Answer184: Accessories: car kits, pouches, earphones, spare batteries, chargers. Battery failure. Outstanding contractual obligations. Out-of-box failures or faults covered by manufacturer warranty. Devices used with a SIM card not listed on your policy schedule. Data recovery or reconstruction.
+Source184: https://www.vodacom.co.za/vodacom/help/device-insurance
+
+Question185: What happens if I do not pay my insurance premium when due?
+Answer185: You have 30 days from the due date to pay the outstanding premium to keep your policy valid. After that, cover is cancelled. Your policy stays active only while premiums are up to date. A claim is only accepted if all premiums are fully paid.
+Source185: https://www.vodacom.co.za/vodacom/help/device-insurance
+
+Question186: If I change my device, does this impact my Vodacom insurance policy?
+Answer186: Yes. Insurance covers only the device listed on your policy schedule. Call 082 1952 to update your policy. If you upgrade in a Vodacom store, your new device is automatically covered and the old one is no longer covered. Your premium may change based on the new device’s value. Cover is only valid if the SIM listed on your policy was in the insured device at the time of loss, damage or theft.
+Source186: https://www.vodacom.co.za/vodacom/help/device-insurance
+
+Question187: What happens to my insurance if I port my number to another service provider?
+Answer187: Your insurance cover ends automatically when you port out, as your contract is cancelled. You must re-apply for cover if you return to Vodacom. Insurance is only valid for devices using a Vodacom SIM card.
+Source187: https://www.vodacom.co.za/vodacom/help/device-insurance
+
+Question188: What does Vodacom cellphone insurance cover?
+Answer188: Covers loss, theft and damage. Premium depends on device value. Each device with its own Vodacom SIM can be insured separately. Cover is only valid if the SIM listed on your policy is in the device at the time of incident. Options: comprehensive (loss, theft, all damage) or accidental damage only (including liquid damage). Starts from R20/month.
+Source188: https://www.vodacom.co.za/vodacom/help/device-insurance
+
+Question189: How do I know if my device is insured?
+Answer189: You’ll get a confirmation email or SMS within 48 hours. Your full policy document — including terms and conditions — will be emailed or posted within 30 days.
+Source189: https://www.vodacom.co.za/vodacom/help/device-insurance
+
+Question190: How do I set up my Vodacom Home Internet (5G or LTE) router?
+Answer190: Plug and play: insert the Vodacom SIM, connect power, switch on, then connect via Wi-Fi using the SSID and password on the sticker under the router.
+Source190: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question191: When will my fibre be installed? I currently have no connection.
+Answer191: Relocation has been scheduled due to your move, and a technician appointment has been confirmed.
+Source191: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question192: What equipment do I need?
+Answer192: A Vodacom-approved LTE or 5G router.
+Source192: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question193: How do I change my Wi-Fi name and password?
+Answer193: Connect to the router’s Wi-Fi, open 192.168.0.1 or 192.168.1.1 in a browser, log in (default username is usually 'admin'), go to Wi-Fi/WLAN Settings, update SSID and password, then save.
+Source193: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question194: How do I reset my router to factory settings?
+Answer194: Press and hold the Reset button at the back for 10 seconds while powered on. Default settings will be restored.
+Source194: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question195: Can I use the SIM card in another device?
+Answer195: No. Home Internet SIM cards are locked to the supplied router.
+Source195: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question196: Why is my Wi-Fi slow and how can I improve the speed?
+Answer196: Place the router centrally and elevated. Keep it away from walls, metal objects, microwaves and cordless phones. Use a mesh system for large homes or poor coverage.
+Source196: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question197: What is buffering?
+Answer197: Buffering is when video or audio pauses because data isn’t downloading fast enough to play smoothly.
+Source197: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question198: What causes slow internet speeds?
+Answer198: Weak Wi-Fi signal, too many connected devices, interference from other electronics, outdated router or device, large downloads/uploads, using a VPN, or network congestion or outages.
+Source198: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question199: What is the difference between 2.4GHz and 5GHz Wi-Fi?
+Answer199: 2.4GHz gives wider coverage but slower speeds and more interference. 5GHz gives faster speeds and less interference but shorter range and poorer wall penetration.
+Source199: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question200: Are speeds guaranteed?
+Answer200: No. Speeds are not guaranteed and vary due to network conditions, distance from tower, home layout, device capability and congestion.
+Source200: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question201: What are the manual APN settings for my home router?
+Answer201: APN: lte.vodacom.za (for Home LTE) or internet (for DSL/Fibre). Username and password: leave blank or use 'guest'. Authentication type: PAP.
+Source201: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question202: What happens during a power outage?
+Answer202: The router shuts down and loses internet unless connected to an uninterruptible power supply (UPS).
+Source202: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question203: Can I use Home Internet as mobile Wi-Fi?
+Answer203: No. Vodacom Home Internet is fixed-location only and tied to your registered address. Moving or using it elsewhere breaches terms.
+Source203: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question204: What speeds can I expect?
+Answer204: Speeds depend on your plan, signal strength, network congestion, distance from tower, home layout and device capability. Actual speeds may differ from advertised rates.
+Source204: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question205: What causes intermittent fibre performance?
+Answer205: Damaged or bent fibre cables, loose or dirty connectors, electrical interference, faulty ONT/router, unstable power supply, or issues at Vodacom’s exchange or network level.
+Source205: https://www.vodacom.co.za/vodacom/help/setup-usage-and-performance
+
+Question206: What is Vodacom Home Internet?
+Answer206: A fixed-location broadband service using LTE/4G, 5G or Fibre — not for mobile use — installed at your registered home address.
+Source206: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question207: What types of Home Internet services are available?
+Answer207: LTE/4G, 5G and DSL-to-Fibre migration services. Fibre is available where infrastructure exists.
+Source207: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question208: How do I check if Fibre is available at my new address?
+Answer208: Use the Vodacom Fibre Coverage Map on vodacom.co.za/fibre.
+Source208: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question209: How do I check availability in my area?
+Answer209: Check online at vodacom.co.za, via the MyVodacom App, in-store, or with a Vodacom agent.
+Source209: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question210: How do I buy more data for my Home Internet?
+Answer210: Buy extra data via the VodaPay App, dial *135#, or log into MyVodacom online. Top-ups apply only to eligible prepaid Home Internet plans.
+Source210: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question211: Is the data uncapped?
+Answer211: No. LTE and 5G services follow a Fair Usage Policy.
+Source211: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question212: How do I view my bill or usage?
+Answer212: Use the MyVodacom App, Vodacom Online Portal, USSD (*135#), or check monthly SMS/email notifications.
+Source212: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question213: Can I upgrade or downgrade my package?
+Answer213: Yes, subject to your contract terms and router compatibility.
+Source213: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question214: How do I check if my router is supported?
+Answer214: Compare your router model or IMEI with Vodacom’s approved device list online.
+Source214: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question215: What is a fibre relocation?
+Answer215: Moving your fibre service to a new address or relocating it within the same premises.
+Source215: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question216: What must I know before requesting a relocation?
+Answer216: Give 30 days’ notice. The ONT stays at the original location. Fees and fibre availability at the new address may apply.
+Source216: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question217: What happens after I submit the relocation request?
+Answer217: A new installation is scheduled. Your current service stays active until relocation completes. You’ll get a relocation order number.
+Source217: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question218: How long does the relocation process take?
+Answer218: Depends on the fibre network operator’s schedule, service availability, and your chosen date.
+Source218: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question219: Can I track my relocation progress online?
+Answer219: Yes — via VodaPay or the Vodacom Online Portal.
+Source219: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question220: Which equipment should I take with me?
+Answer220: Only your router. The ONT must remain at the original location.
+Source220: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question221: How do I request a fibre relocation?
+Answer221: Submit via VodaPay, the Vodacom Online Portal, or call 082 1904.
+Source221: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question222: Will I be billed twice during relocation?
+Answer222: Yes — if less than 30 days’ notice is given, dual billing may apply.
+Source222: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question223: Can I track my relocation progress?
+Answer223: Yes — via VodaPay or the Vodacom Online Portal.
+Source223: https://www.vodacom.co.za/vodacom/help/plans-billing-coverage-changes
+
+Question224: How do I check for Fibre or LTE outages in my area?
+Answer224: Check the Vodacom Network Status page, VodaPay app, or WhatsApp TOBi on 082 009 8624.
+Source224: https://www.vodacom.co.za/vodacom/help/troubleshooting-outages-and-support
+
+Question225: How do I log a network fault for my home connection?
+Answer225: Log via VodaPay > Support > Chat to Tobi, or call 082 1904.
+Source225: https://www.vodacom.co.za/vodacom/help/troubleshooting-outages-and-support
+
+Question226: What should I do if my fibre is down?
+Answer226: Check for a power outage. Ensure the ONT (fibre box) and router are powered on and plugged directly into wall outlets. Use the original router power adapter. Check ONT lights: green PON = connected; red/no PON = possible fault; red alarm = fibre issue. Ensure LAN/Ethernet cable is securely connected between ONT and router. Restart both: switch off for 30 seconds, power on ONT first, then router. Do NOT unplug the fibre cable from the ONT or factory reset your router.
+Source226: https://www.vodacom.co.za/vodacom/help/troubleshooting-outages-and-support
+
+Question227: My internet is slow or not working — what should I check?
+Answer227: Restart the router, reposition it for better signal, check indicator lights, and look for known outages in your area.
+Source227: https://www.vodacom.co.za/vodacom/help/troubleshooting-outages-and-support
+
+Question228: What is the dedicated support number for Vodacom Fibre?
+Answer228: Call 082 1904 for Fibre installations, faults, and technical support.
+Source228: https://www.vodacom.co.za/vodacom/help/troubleshooting-outages-and-support
+
+Question229: What are the manual APN settings for Vodacom?
+Answer229: Set APN to 'internet': Name: Vodacom; APN: internet; Username: guest; Password: (leave blank); MCC: 655; MNC: 01; Authentication type: PAP. Save and restart your device.
+Source229: https://www.vodacom.co.za/vodacom/help/troubleshooting-outages-and-support
+
+Question230: What are my Business Internet 5G*/FWA Service options?
+Answer230: Two options: BI 5G*/FWA with Indoor Device — for small home offices where the router can be placed near a window. BI 5G*/FWA with Outdoor Device — for premises with poor signal (e.g., basement server room), includes technical installation by an approved Vodacom installer.
+Source230: https://www.vodacom.co.za/vodacom/help/business-internet-5g-fwa-service
+
+Question231: What hardware will I receive with the Business Internet 5G*/FWA Service?
+Answer231: BI 5G with Indoor Device: Tozed X25 MAX2. BI 5G with Outdoor Device: ZTE MC889 and Tozed S90 Ultra.
+Source231: https://www.vodacom.co.za/vodacom/help/business-internet-5g-fwa-service
+
+Question232: What are the Fair Usage Policy indicators?
+Answer232: Business Internet 5G*/FWA is speed-based with a Fair Usage Policy (FUP). FUP ensures fair network use and consistent service quality. Allowable usage levels depend on network capacity, number of users on your plan, and ongoing network quality. Specific FUP limits apply per plan.
+Source232: https://www.vodacom.co.za/vodacom/help/business-internet-5g-fwa-service
+
+Question233: How do I install my Business Internet 5G*/FWA service?
+Answer233: Two options: Self-install ('plug-n-play') — plug router into power and insert SIM; installation guide included. Fully installed — Vodacom provisioning engineers install 5G receiver on roof and set up router inside office at your preferred location, with cabling and full service test before leaving.
+Source233: https://www.vodacom.co.za/vodacom/help/business-internet-5g-fwa-service
+
+Question234: What are the minimum upload and download speeds?
+Answer234: Business Internet 5G*/FWA is 'best effort'. Speeds depend on factors like user load on the base station and distance from the nearest tower. Max speed depends on your plan. Router is 5G-ready: connects to strongest available network (5G if available, else 4G/LTE). If 5G signal drops, service falls back to LTE/4G.
+Source234: https://www.vodacom.co.za/vodacom/help/business-internet-5g-fwa-service
+
+Question235: How do I subscribe to a Business Internet 5G*/FWA service?
+Answer235: Log a lead for an agent to call you back, visit your nearest Vodacom Store, or contact your Account Manager.
+Source235: https://www.vodacom.co.za/vodacom/help/business-internet-5g-fwa-service
+
+Question236: If my phone is stolen must I blacklist and SIM lock it?
+Answer236: Yes. Blacklisting disconnects the device from all networks. SIM locking prevents fraudulent use. Both protect against bill shock and criminal misuse.
+Source236: https://www.vodacom.co.za/vodacom/help/phone-and-sim-security
+
+Question237: How do I blacklist a lost or stolen cellphone?
+Answer237: Call Customer Care on 082 135 (free from a Vodacom cellphone). From other phones, normal rates apply. You’ll need: last date and number used on the device; your name, surname and ID number; device IMEI; device make and model. Complete and submit the blacklisting form at your nearest store.
+Source237: https://www.vodacom.co.za/vodacom/help/phone-and-sim-security
+
+Question238: How do I unblacklist my cellphone?
+Answer238: Complete and return the unblacklisting form with all required information and supporting documents. Contact details are on the form.
+Source238: https://www.vodacom.co.za/vodacom/help/phone-and-sim-security
+
+Question239: How do I lock/unlock my SIM card?
+Answer239: Call Customer Care on 082 135 (free from a Vodacom cellphone). Lock for theft/loss or unauthorised use. Hard lock bars all calls (incoming/outgoing). Soft lock bars outgoing only — request as a 'customer special request' to limit usage.
+Source239: https://www.vodacom.co.za/vodacom/help/phone-and-sim-security
+
+Question240: How will I know if my cellphone is blacklisted?
+Answer240: You’ll hear a three-tone beep when making a call. Incoming calls ring once then show as missed. A blacklisted phone can only dial 112 (emergency services).
+Source240: https://www.vodacom.co.za/vodacom/help/phone-and-sim-security
+
+Question241: What is cellphone blacklisting?
+Answer241: Blacklisting stops your cellphone from working on any network if it’s lost or stolen. It prevents calls and messages. You won’t be billed for fraudulent usage after blacklisting.
+Source241: https://www.vodacom.co.za/vodacom/help/phone-and-sim-security
+
+Question242: What is phishing?
+Answer242: Phishing is when fraudsters pretend to be trusted companies — like banks or Vodacom — via SMS, email or fake websites to steal your personal info: passwords, PINs, bank details or usernames. They often ask for urgent action or verification. Warning signs: unsolicited requests for info, urgency, exaggerated promises. Vodacom will never ask for your password, PIN or OTP by SMS, email or phone. If you’ve shared info, contact your bank/provider immediately, change passwords, and warn others.
+Source242: https://www.vodacom.co.za/vodacom/help/phone-and-sim-security
+
+Question243: What can I do to protect my passwords?
+Answer243: Never write down or share passwords — not even with Customer Care. Change them often, especially if compromised. Don’t use browser password saving. Don’t let others see you type them. Don’t reuse passwords across accounts. Log off or lock your device when away. Strong passwords must be 10–20 characters, mix upper/lower case, numbers, and symbols like ! @ # $ % * ( ) + = , < > : " ' — no names, birthdays, phone numbers, dictionary words, keyboard sequences or all-same characters.
+Source243: https://www.vodacom.co.za/vodacom/help/protect-your-Identity
+
+Question244: How do fraudsters trick customers?
+Answer244: They call pretending to be Vodacom agents offering an upgrade. If you say no, they ask for the OTP to ‘cancel’ it — then use it to complete the upgrade. If you say yes, they ask for the OTP to ‘process’ it — then use it to complete the upgrade. Either way, the device is delivered to them.
+Source244: https://www.vodacom.co.za/vodacom/help/protect-your-Identity
+
+Question245: What must I do when I receive an OTP?
+Answer245: If you didn’t start an online purchase or upgrade, ignore the OTP — do nothing. Never give your OTP to anyone, even if they claim to be from Vodacom.
+Source245: https://www.vodacom.co.za/vodacom/help/protect-your-Identity
+
+Question246: What is OTP fraud?
+Answer246: OTP fraud happens when a fraudster tries to buy something online using your details — e.g., a cellphone upgrade — and asks for your OTP to complete it. Vodacom agents will never ask for your OTP.
+Source246: https://www.vodacom.co.za/vodacom/help/protect-your-Identity
+
+Question247: How does OTP fraud work?
+Answer247: Fraudsters enter your number on the Vodacom portal or VodaPay App to start an upgrade. To finish it, they need the OTP Vodacom sends to your number. If you give them the OTP, they complete the upgrade and get the device. Without it, they can’t proceed.
+Source247: https://www.vodacom.co.za/vodacom/help/protect-your-Identity
+
+Question248: What is Airtime Advance and how does it work?
+Answer248: Airtime Advance gives you airtime, data or voice credit when you’re out — repayable on your next recharge.
+Source248: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question249: How do I know if I qualify for Airtime, Data and/or Voice Advance?
+Answer249: You must be Prepaid or Hybrid and: active on Vodacom for ≥3 months; and recharged ≥R29/month for 3 months. uChoose/Top Up customers qualify if paid up to last month. Post-paid customers don’t qualify. Dial *135*082# to check eligibility.
+Source249: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question250: How do I get Airtime Advance?
+Answer250: Dial *135# → 'Airtime & Transfers' or *135*082# → 'Airtime'. Select an option that matches your eligibility. Confirm with '1'. Or use the VodaPay App.
+Source250: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question251: How do I get Data Advance?
+Answer251: Dial *135# → 'Airtime & Transfers' or *135*082# → 'Data'. Choose 20MB, 35MB, 75MB, 120MB or 300MB based on eligibility. Confirm with '1'.
+Source251: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question252: How do I get Voice Advance?
+Answer252: Dial *135# → 'Airtime & Transfers' or *135*082# → 'Voice'. Choose one: 15/20/35/80/150 min On-net (Vodacom-to-Vodacom) or 60 min Any-net. Confirm with '1'.
+Source252: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question253: How much does Airtime, Data & Voice Advance cost?
+Answer253: R1.20 (VAT inclusive) access fee per R10 or part thereof advanced. E.g., a R19 Data Advance costs R19 + 2 × R1.20 = R21.40.
+Source253: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question254: How does repayment work?
+Answer254: Advances + access fees are deducted from your next recharge, Airtime Transfer or direct bundle purchase — not from other advances. Example: R10 Airtime Advance + R1.20 fee = R11.20 deducted from a R20 recharge → R8.80 remains. R5 Data Advance + R1.20 = R6.20 deducted from R7 → R0.80 remains.
+Source254: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question255: By when should I make repayment?
+Answer255: Repay the advance + access fee on your next recharge or bundle purchase. Prepaid: unpaid advances after 30 days may disqualify you or lower your Max Limit. uChoose/Top Up: full amount must be paid within 30 days; otherwise, it’s added to your next monthly bill and due then.
+Source255: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question256: Can I buy data or voice bundles with Airtime Advance?
+Answer256: Yes. Airtime from Airtime Advance works like normal airtime and can be used to buy data or voice bundles.
+Source256: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question257: Does Airtime Advance airtime expire?
+Answer257: No. Airtime from Airtime Advance does not expire — it works like normal airtime.
+Source257: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question258: I took an Airtime Advance but didn’t get Night Shift, Talking Points or Extra Airtime.
+Answer258: Airtime Advance itself does not trigger recharge benefits. You’ll only get Night Shift, Talking Points or Extra Airtime when you recharge to pay off your outstanding Airtime Advance.
+Source258: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question259: Why did my Airtime Advance total limit change?
+Answer259: Your total credit limit depends on how often and how much you recharge. If your recharge amount or frequency changes, your limit may increase or decrease.
+Source259: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question260: Where did my airtime go when I recharged?
+Answer260: Your recharge is first used to pay off any outstanding Airtime Advance balance. This continues until the full amount is repaid.
+Source260: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question261: I took a R10 Airtime Advance but more than R10 was deducted on recharge. Why?
+Answer261: Before 6 May 2025: A R1.10 Access Fee was added to your R10 advance. After 6 May 2025: A R1.20 Access Fee applies. Both fees are added to your outstanding balance and deducted from your next recharge(s).
+Source261: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question262: My friend sent me airtime via Airtime Transfer, but it didn’t come through and they were charged. What happened?
+Answer262: All incoming Airtime Transfers and recharges are used first to repay any outstanding Airtime Advance.
+Source262: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question263: Can I transfer airtime from Airtime Advance?
+Answer263: Yes. Airtime from Airtime Advance can be transferred like normal airtime, following standard Airtime Transfer rules.
+Source263: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question264: How do I check how much Airtime Advance I owe?
+Answer264: Dial *135*082# or visit www.vodacom.co.za and follow the menu.
+Source264: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question265: What is the additional charge on my monthly bill?
+Answer265: If you’re a uChoose or Top Up customer and your Airtime Advance isn’t fully repaid by month-end, the outstanding amount (including Access Fee) is added to that month’s bill.
+Source265: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question266: Why can’t I use Airtime Advance?
+Answer266: You must qualify: (1) Recharge at least once every 30 days; (2) Prepaid customers must meet eligibility criteria; (3) uChoose/Top Up customers must have paid their account up to one month prior — no arrears allowed. To requalify: recharge R29.00/month for 3 months straight.
+Source266: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question267: How does bundle recovery repay my Airtime Advance?
+Answer267: If you buy a R100, 30-day 2GB bundle with R100 outstanding: R50 goes to repay advance + Access Fee, and you get a R50 bundle (same type, 30-day validity). If outstanding is R20: R22.40 is repaid, and you get a R77.60 bundle.
+Source267: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question268: How do Hybrid and Top Up customers repay Airtime Advance via bundle recovery?
+Answer268: If your outstanding Airtime Advance is less than 30 days old and you buy a bundle without using airtime, Vodacom uses that purchase to recover the advance. If you don’t buy a bundle or recharge within 30 days, the outstanding amount is added to your monthly bill.
+Source268: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question269: How will I know when bundle recovery has been processed?
+Answer269: You’ll get an SMS confirming how much of your bundle purchase was used to repay your Airtime Advance and your remaining airtime balance.
+Source269: https://www.vodacom.co.za/vodacom/help/airtime-advance
+
+Question270: How do I transfer data to another Vodacom number?
+Answer270: Dial *135#, select Services → Data Transfer → choose bundle size → enter recipient’s number. Note: Prepaid → Prepaid only. Contract/Hybrid → Contract or Hybrid only.
+Source270: https://www.vodacom.co.za/vodacom/help/transfers-sharing-bundles-subscriptions
+
+Question271: What is the difference between “Data Transfer” and “Family Sharing”?
+Answer271: Data Transfer: Sends a once-off bundle (e.g. 100MB or 1GB) to another Vodacom user. Family Sharing: Available on Re plans. A master account can link up to 6 Vodacom numbers and share recurring monthly data for a small fee.
+Source271: https://www.vodacom.co.za/vodacom/help/transfers-sharing-bundles-subscriptions
+
+Question272: How do I transfer airtime to another Vodacom user?
+Answer272: Dial *135*072[Recipient Number]*[Amount]#. Example: *135*0720821234567*20# to send R20. You can also use the VodaPay app or My Vodacom portal. Allocated or promotional airtime may not be transferable, per product rules.
+Source272: https://www.vodacom.co.za/vodacom/help/transfers-sharing-bundles-subscriptions
+
+Question273: How can I get an Airtime or Data Advance when I’m out of credit?
+Answer273: If active for at least 3 months: Dial *135*082# to see what you qualify for. Repayment — advance plus a fee (from R1.20) — is deducted from your next recharge.
+Source273: https://www.vodacom.co.za/vodacom/help/transfers-sharing-bundles-subscriptions
+
+Question274: How do I stop or cancel a recurring data bundle?
+Answer274: Cancel via: USSD — dial *135*997# and manage subscriptions; SMS — send 'STOP ALL' to 31050; or VodaPay App — My Account > Manage Subscriptions.
+Source274: https://www.vodacom.co.za/vodacom/help/transfers-sharing-bundles-subscriptions
+
+Question275: What is Vodacom PowerFlex?
+Answer275: PowerFlex is a monthly prepaid subscription offering fixed data and minutes like a contract, but with no credit check and cancel-anytime flexibility. Available on the Vodacom website and VodaPay app.
+Source275: https://www.vodacom.co.za/vodacom/help/transfers-sharing-bundles-subscriptions
+
+Question276: Does my data roll over to the next month?
+Answer276: Most data bundles have 60-day validity. Unused data rolls over to the next month and is used first (FIFO). Any remaining data expires at the end of the second month.
+Source276: https://www.vodacom.co.za/vodacom/help/transfers-sharing-bundles-subscriptions
+
+Question277: How do 7-day minutes actually work?
+Answer277: 7-day minutes are valid for seven days from activation and apply to eligible call types as per your plan rules.
+Source277: https://www.vodacom.co.za/vodacom/help/transfers-sharing-bundles-subscriptions
+
+Question278: Can I buy a bundle lasting 7 days via USSD?
+Answer278: Yes. Use the standard USSD purchase menus to buy 7-day voice or data bundles.
+Source278: https://www.vodacom.co.za/vodacom/help/transfers-sharing-bundles-subscriptions
+
+Question279: Can I use my data bundles while roaming internationally?
+Answer279: No. Local data bundles don’t work while roaming. Activate a Vodacom Travel Data Bundle before leaving SA by dialing *135*130# or using the VodaPay app.
+Source279: https://www.vodacom.co.za/vodacom/help/transfers-sharing-bundles-subscriptions
+
+Question280: What is Life Cover?
+Answer280: Life cover pays a lump sum to your family or beneficiary if you die from natural or unnatural causes. You pay regular premiums in return for this promise.
+Source280: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question281: What is the difference between life (with/without injury benefit) and accidental death cover offered by Vodacom Life?
+Answer281: Life cover pays a lump sum on death (max R1.5 million). Injury benefit is an optional add-on (max R1 million) that pays for specific injuries (e.g. amputation, paralysis, burns, coma, visual/hearing/speech loss, facial disfigurement). It’s not standalone — only added to life cover. Payouts reduce the total lump sum available; once 100% is paid, the policy ends. Accidental Death cover pays only for death due to unnatural causes.
+Source281: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question282: What is underwriting?
+Answer282: Underwriting assesses your risk to decide if you qualify for cover and how much to charge. Factors include age, gender, smoker status, income, education and health.
+Source282: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question283: How is my premium calculated?
+Answer283: Premiums depend on underwriting factors: age, gender, smoker status, income, education, health (e.g. pre-existing conditions may increase cost), and your chosen cover amount.
+Source283: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question284: Is there a limit on the amount of cover I can get?
+Answer284: Yes. Minimum cover is R100 000. Maximum is R1.5 million.
+Source284: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question285: Will I be able to increase my cover?
+Answer285: Yes. You can increase cover anytime. Further underwriting may be needed, except every 3 years on the policy anniversary or after: marriage, birth/adoption of a child, home purchase, or starting/taking greater interest in a business.
+Source285: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question286: Can I amend the policy any time?
+Answer286: Yes, while your policy is active, you can apply to increase or decrease your cover or add benefits like injury cover. Call 082 124 and press option 3. Call centre hours: Monday–Friday, 08:30–17:00.
+Source286: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question287: When will my cover start?
+Answer287: Your cover starts as soon as we collect your first premium. You can choose any day of the month as your premium collection date.
+Source287: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question288: How do I claim?
+Answer288: 1. Report the death at Home Affairs to get a Death Certificate. 2. Gather documents: death certificate copy, IDs of deceased and beneficiary, proof of beneficiary’s bank details. Complete claim forms. 3. Submit via email, fax (011 546 8444) or post. Beneficiaries must call 082 124 (option 3), email claims@vodacomlife.co.za or fax. Call centre hours: Monday–Friday, 08:00–16:30.
+Source288: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question289: Why should I choose Vodacom Life?
+Answer289: Vodacom Life pays a tax-free lump sum on the Life Assured’s death. Choose your cover level. No medical tests — simplified underwriting. Apply online or via cellphone. Paperless, real-time process. Add as many beneficiaries as you like.
+Source289: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question290: What do I do if I need to complain?
+Answer290: Contact us first to resolve it: call 082 124, email complaints@vodacomlife.co.za, or write to Private Bag X9904, Sandton, 2146.
+Source290: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question291: Are there exclusions?
+Answer291: Yes. Common exclusions include: knowingly withholding required information (e.g. a known medical condition); suicide; natural causes within the policy’s waiting period; civil commotion, insurrection, riot, usurpation of power, terrorism or acts of terrorism. Check your policy document for full exclusions.
+Source291: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question292: What is a beneficiary and why do I need one?
+Answer292: A beneficiary is the person or people you nominate to receive your life insurance payout when you die. Without a valid beneficiary, the payout goes into your estate. This delays access (often by years due to legal processes) and exposes funds to creditors.
+Source292: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question293: What is the difference between funeral and life insurance cover?
+Answer293: Life insurance: covers only you; pays a larger tax-free lump sum to your beneficiary to support dependants long-term. Funeral cover: covers you and family members on one policy; pays a smaller tax-free lump sum on any covered person’s death, for funeral costs. Both payouts are tax-free.
+Source293: https://www.vodacom.co.za/vodacom/help/life-insurance
+
+Question294: What is Vodacom Funeral Cover and how do I get it?
+Answer294: Vodacom Funeral Cover is a group policy with Vodacom Life Assurance, included in selected 24-month Vodacom contracts. Vodacom pays the monthly premium. Not all 24-month contracts include it. To get it, you must sign a participating 24-month Vodacom deal that includes Funeral Cover.
+Source294: https://www.vodacom.co.za/vodacom/help/funeral-cover
+
+Question295: How much does Vodacom Funeral Cover cost?
+Answer295: Vodacom pays the monthly premium as part of your 24-month contract. To confirm your cover amount, call 082 178 00.
+Source295: https://www.vodacom.co.za/vodacom/help/funeral-cover
+
+Question296: How do I add beneficiaries to my Vodacom Funeral Cover?
+Answer296: Call Vodacom Life Assurance on 082 178 00 to add or update beneficiary details.
+Source296: https://www.vodacom.co.za/vodacom/help/funeral-cover
+
+Question297: What is the claim procedure for Vodacom Funeral Cover?
+Answer297: Your beneficiary must contact Vodacom Life Assurance to submit required documents. They can call 082 178 00 or email claims@vodacomlife.co.za.
+Source297: https://www.vodacom.co.za/vodacom/help/funeral-cover
+
+Question298: How do I lodge a complaint about Vodacom Funeral Cover?
+Answer298: Contact us first: call 082 178 00 or email complaints@vodacomlife.co.za. If unresolved, escalate to the FAIS Ombud (0860 103 236, info@faisombud.co.za) or Long-Term Insurance Ombud (info@ltiombud.co.za).
+Source298: https://www.vodacom.co.za/vodacom/help/funeral-cover
+
+Question299: What is mediation?
+Answer299: Mediation uses a neutral mediator to help resolve disputes outside court. It involves talking, listening, clarifying issues and reaching agreement. Courts require mediation before litigation. It’s faster and cheaper than court — which can take 2–3 years.
+Source299: https://www.vodacom.co.za/vodacom/help/legal-cover
+
+Question300: How do I get legal assistance?
+Answer300: Call 082 178 00 or email legal@vodacomlife.co.za with your query.
+Source300: https://www.vodacom.co.za/vodacom/help/legal-cover
+
+Question301: What if my policy does not cover a specific matter?
+Answer301: If your matter is excluded from cover, we’ll refer you to a Panel Attorney nationwide for assistance at a discounted rate. We can also refer you to a forum that may help for a small fee—or free.
+Source301: https://www.vodacom.co.za/vodacom/help/legal-cover
+
+Question302: Why is my internet down (home router or mobile)?
+Answer302: Possible causes: network outages, weak coverage, incorrect APN settings, or router/device faults. Restart your device and check for outages in the Vodacom or VodaPay App.
+Source302: https://www.vodacom.co.za/vodacom/help/internet-and-connectivity
+
+Question303: Why does my connection drop after an hour?
+Answer303: This can happen due to network congestion, router idle timeout settings, outdated firmware, or unstable signal. Update your router’s firmware and reposition it for better signal.
+Source303: https://www.vodacom.co.za/vodacom/help/internet-and-connectivity
+
+Question304: My mobile data is slow or not working — how do I fix it?
+Answer304: Check your data balance, confirm APN is set to 'internet', ensure network mode is correct (e.g., LTE/5G), and move closer to a window or open area.
+Source304: https://www.vodacom.co.za/vodacom/help/internet-and-connectivity
+
+Question305: What is the correct APN for Vodacom?
+Answer305: Use APN: 'internet'. Leave username and password fields blank.
+Source305: https://www.vodacom.co.za/vodacom/help/internet-and-connectivity
+
+Question306: Do I need special settings for 5G?
+Answer306: Yes — your device and plan must support 5G, and you must enable 5G or Auto network mode in settings.
+Source306: https://www.vodacom.co.za/vodacom/help/internet-and-connectivity
+
+Question307: How does loadshedding affect signal?
+Answer307: Cell sites on limited backup power may reduce coverage and speed during loadshedding.
+Source307: https://www.vodacom.co.za/vodacom/help/internet-and-connectivity
+
+Question308: How can I improve signal at home?
+Answer308: Place your router near a window or use Vodacom-approved external antennas.
+Source308: https://www.vodacom.co.za/vodacom/help/internet-and-connectivity
+
+Question309: I have no signal or weak signal — what should I try first?
+Answer309: Restart your device, reinsert the SIM card, move to an open area, or check for outages in the Vodacom or VodaPay App.
+Source309: https://www.vodacom.co.za/vodacom/help/network-coverage-and-status
+
+Question310: Why is my indoor signal poor?
+Answer310: Building materials like concrete or metal can block signal. Use Wi-Fi Calling to improve call quality indoors.
+Source310: https://www.vodacom.co.za/vodacom/help/network-coverage-and-status
+
+Question311: Why do my calls drop or sound poor?
+Answer311: Enable VoLTE or Wi-Fi Calling, update your device software, or switch between network modes (e.g., LTE/4G only).
+Source311: https://www.vodacom.co.za/vodacom/help/network-coverage-and-status
+
+Question312: Why does my signal vary during the day?
+Answer312: Signal may change due to network congestion, scheduled maintenance, weather, or local outages.
+Source312: https://www.vodacom.co.za/vodacom/help/network-coverage-and-status
+
+Question313: Should I use Wi-Fi Calling?
+Answer313: Yes — it improves call quality indoors when cellular signal is weak.
+Source313: https://www.vodacom.co.za/vodacom/help/network-coverage-and-status
+
+Question314: Can cases or accessories reduce signal?
+Answer314: Yes — metal or magnetic cases and accessories can interfere with your device’s antenna.
+Source314: https://www.vodacom.co.za/vodacom/help/network-coverage-and-status
+
+Question315: Is the outage in my area or just my line/router?
+Answer315: Check the Network Outage section in the Vodacom or VodaPay App to see if it’s an area-wide issue or line/router-specific.
+Source315: https://www.vodacom.co.za/vodacom/help/outages-and-faults
+
+Question316: How do I check for a network outage?
+Answer316: Check the Network Outage section in the VodaPay or MyVodacom app.
+Source316: https://www.vodacom.co.za/vodacom/help/outages-and-faults
+
+Question317: How do I log a network fault?
+Answer317: Open the MyVodacom app → Support → Network → Report an issue.
+Source317: https://www.vodacom.co.za/vodacom/help/outages-and-faults
+
+Question318: What is the SLA for network faults?
+Answer318: Most faults are resolved within 24–72 hours, depending on complexity and technician availability.
+Source318: https://www.vodacom.co.za/vodacom/help/outages-and-faults
+
+Question319: Can you allocate temporary data until fixed?
+Answer319: Temporary data may be granted, depending on fault type and assessment.
+Source319: https://www.vodacom.co.za/vodacom/help/outages-and-faults
+
+Question320: Does putting the SIM in a phone help test it?
+Answer320: Yes — it helps isolate whether the fault is with the SIM, device, or network.
+Source320: https://www.vodacom.co.za/vodacom/help/device-and-account-support
+
+Question321: How do I know if my SIM is faulty?
+Answer321: If it fails in multiple devices while other SIMs work in those same devices, it is likely faulty.
+Source321: https://www.vodacom.co.za/vodacom/help/device-and-account-support
+
+Question322: Why do I get no service after watch/eSIM setup?
+Answer322: The eSIM profile may not have provisioned correctly. Remove and re-add the eSIM, then restart the device.
+Source322: https://www.vodacom.co.za/vodacom/help/device-and-account-support
+
+Question323: My eSIM isn’t connecting — what should I check?
+Answer323: Ensure the eSIM profile is active, APN settings are correct, and reset network settings if needed.
+Source323: https://www.vodacom.co.za/vodacom/help/device-and-account-support
+
+Question324: Will resetting network settings help?
+Answer324: Yes — it resolves many issues after software updates or SIM changes.
+Source324: https://www.vodacom.co.za/vodacom/help/device-and-account-support
+
+Question325: How do I do manual network selection?
+Answer325: Go to Settings → Mobile Network → Network Selection → Manual → Choose Vodacom (switch back to Automatic once resolved).
+Source325: https://www.vodacom.co.za/vodacom/help/device-and-account-support
+
+Question326: Can you log a service request and call me back?
+Answer326: Yes — we can log a service request and update you via SMS, email, or call when there’s progress.
+Source326: https://www.vodacom.co.za/vodacom/help/device-and-account-support
+
+Question327: Roaming isn’t working — what must I check?
+Answer327: Ensure roaming is enabled in your device settings and manually select a partner network if automatic selection fails.
+Source327: https://www.vodacom.co.za/vodacom/help/device-and-account-support
+
+Question328: Are network boosters allowed?
+Answer328: Only ICASA-approved boosters are legally permitted.
+Source328: https://www.vodacom.co.za/vodacom/help/device-and-account-support
+
+Question329: What are VodaBucks?
+Answer329: VodaBucks are Vodacom’s digital rewards currency. You can earn, save, and spend them on rewards and offers.
+Source329: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question330: How do I earn VodaBucks?
+Answer330: You can earn VodaBucks by: playing your three free Daily V-Ups; completing personalised behavioural goals; paying your monthly contract bill; or recharging with airtime or data. Contract customers also earn extra based on their Postpaid loyalty tier.
+Source330: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question331: What are Postpaid loyalty tiers?
+Answer331: Postpaid loyalty tiers are part of the VodaBucks Loyalty Programme for eligible Vodacom contract customers. Tiers and matching plans: RED Flexi – Silver; RED Core – Gold; RED VIP – Diamond.
+Source331: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question332: How many additional VodaBucks do I earn when I pay my monthly bill?
+Answer332: You earn extra VodaBucks on bill payments based on your tier: Silver – 20%; Gold – 30%; Diamond – 50%. (Note: 'Black Tier' in original is incorrect; only Silver, Gold and Diamond apply to Postpaid plans.)
+Source332: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question333: Do I earn the additional VodaBucks when paying with cash or card?
+Answer333: No. Additional VodaBucks apply only to monthly bill payments or add-to-bill purchases. Cash or card payments don’t qualify.
+Source333: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question334: What can I do with my VodaBucks?
+Answer334: Use VodaBucks to: buy Daily V-Ups; shop via Spend in Store; buy data/voice bundles; buy goods/services in the VodaBucks Store; convert to cash; buy upsize offers; spend at participating stores.
+Source334: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question335: How do I check my VodaBucks balance?
+Answer335: Check your balance via USSD: dial *133# or *135#, or use the VodaPay app.
+Source335: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question336: What is Spend in Store?
+Answer336: Spend in Store lets you use VodaBucks to pay for purchases at participating partner stores.
+Source336: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question337: How can I access Spend in Store?
+Answer337: Spend in Store is only available in the VodaPay app.
+Source337: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question338: Where can I use Spend in Store?
+Answer338: At selected partners: Pick n Pay, vida e caffè, Shell, Kauai, Nando’s, Krispy Kreme, Vodacom Stores, Ackermans, Hungry Lion.
+Source338: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question339: How do I use my VodaBucks in a partner store?
+Answer339: In the VodaPay app: go to VodaBucks > Spend in Store > select partner > enter Rand amount > generate WiCode > show WiCode to cashier to scan.
+Source339: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question340: Can I split payment between VodaBucks and another method?
+Answer340: Yes. You can pay part with VodaBucks and the rest with cash, card or another accepted method.
+Source340: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question341: What happens if I don’t use the full value on my purchase?
+Answer341: Unused VodaBucks from an incomplete WiCode purchase are returned to your balance. Refund uses the same conversion rate (R0.05 per 1VB).
+Source341: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question342: How many WiCodes can I create each day for Spend in Store?
+Answer342: You can create up to two WiCodes per day. Each WiCode max value is 5,000 VodaBucks.
+Source342: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question343: How long is my WiCode valid?
+Answer343: A WiCode is valid for two hours from creation time.
+Source343: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question344: What happens if my WiCode expires?
+Answer344: Expired WiCodes return all VodaBucks to your balance. Generate a new WiCode to pay.
+Source344: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question345: Can I cancel a WiCode?
+Answer345: Yes. Cancel a WiCode in the VodaPay app. Your VodaBucks will be returned to your balance.
+Source345: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question346: Can I transfer my WiCode to someone else?
+Answer346: No. WiCodes cannot be transferred to another person.
+Source346: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question347: Can I generate multiple WiCodes at once?
+Answer347: No. You can only have one active WiCode at a time. To generate a new one, you must first use or cancel your current WiCode.
+Source347: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question348: What happens if I return an item purchased with VodaBucks in a partner store?
+Answer348: You’ll get your refund in VodaBucks.
+Source348: https://www.vodacom.co.za/vodacom/help/vodabucks-faqs
+
+Question349: What is V-Up?
+Answer349: V-Up is part of the VodaBucks Loyalty Programme. It offers two ways to earn rewards: V-Up Daily (daily play for instant rewards) and V-Up Achiever (weekly personalised behavioural goals).
+Source349: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question350: What is USSD?
+Answer350: USSD is a quick way to access VodaBucks features like V-Up by dialling *133# or *135#.
+Source350: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question351: Who can take part?
+Answer351: All Vodacom Prepaid, Hybrid and Contract customers can join the V-Up Summer campaign — including new customers who activate a SIM or port their number to Vodacom during the campaign.
+Source351: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question352: How do I take part?
+Answer352: Join the VodaBucks Loyalty Programme via USSD (*133# or *135#) or the VodaPay app.
+Source352: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question353: How do I earn rewards?
+Answer353: Through two options: V-Up Daily (play daily for instant rewards) and V-Up Achiever (complete weekly personalised behavioural goals).
+Source353: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question354: How does V-Up Daily work?
+Answer354: You get three free Daily V-Ups on the VodaPay app, or one free Daily V-Up on USSD. Using the USSD option leaves you with two app plays. A 'No reward this time' outcome means no reward — try again. Extra plays cost 1 VodaBuck each.
+Source354: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question355: What does 'No reward this time' mean?
+Answer355: It means no reward was won on that V-Up Daily play — whether free or paid. Keep playing for another chance.
+Source355: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question356: When will 'No reward this time' start?
+Answer356: From 1 August 2026, V-Up Daily will no longer guarantee a reward every time you play.
+Source356: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question357: How are 'No reward this time' outcomes decided?
+Answer357: They’re decided randomly.
+Source357: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question358: How does V-Up Achiever work?
+Answer358: A new personalised behavioural goal appears every Monday on the VodaPay app and USSD. You can swap it once. Goals run Monday–Sunday. Complete yours by Sunday to earn your chosen reward. You’ll get an SMS when your goal is ready and another when completed.
+Source358: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question359: Can I see my goal completion progress?
+Answer359: Yes — track progress on the VodaPay app or USSD. You’ll also get an SMS reminder every Thursday.
+Source359: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question360: What are behavioural goals?
+Answer360: Personalised tasks based on how you use Vodacom products and services. Complete them in V-Up Achiever to earn rewards.
+Source360: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question361: What types of behavioural goals are there?
+Answer361: Two types: Transactional goals (e.g. buying airtime, using VodaBucks, card payments) and non-transactional goals (e.g. watching a video, playing V-Up Daily).
+Source361: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question362: How often are goals updated?
+Answer362: New goals update every Monday at 00:01 and expire Sunday at 23:59.
+Source362: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question363: Where can I check my behavioural goals?
+Answer363: On USSD: dial *133# or *135#. Or in the VodaPay app.
+Source363: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question364: What happens if I don’t complete my goals?
+Answer364: If not completed by Sunday at 23:59, the goal expires and earns no reward. A new goal appears Monday.
+Source364: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question365: Will I be able to see my reward options upfront?
+Answer365: Yes. You’ll choose from three reward options: one VodaBucks reward and two other rewards.
+Source365: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question366: What kind of rewards do I get?
+Answer366: Rewards include data, voice and integrated bundles; discounted or free digital subscriptions; lifestyle vouchers (food, clothing, personal care); VodaBucks; cash into your VodaPay wallet; and discounts on Vodacom products and services.
+Source366: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question367: Do my rewards expire?
+Answer367: Yes. Each reward has its own expiry date, shown in the SMS notification.
+Source367: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question368: Where can I view my earned rewards?
+Answer368: In the 'Rewards History' section on USSD (*133# or *135#) or the VodaPay app.
+Source368: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question369: Where can I view the prizes I’ve won?
+Answer369: In the 'Rewards History' section on USSD (*133# or *135#) or the VodaPay app. Voucher expiry dates are in the SMS you receive.
+Source369: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question370: Where can I view the vouchers I’ve won?
+Answer370: In the 'Rewards History' section on USSD (*133# or *135#) or the VodaPay app. Voucher expiry dates are in the SMS you receive.
+Source370: https://www.vodacom.co.za/vodacom/help/v-up-faqs
+
+Question371: How do I redeem my reward?
+Answer371: Vouchers: redeem at participating retailers or their websites. Other rewards: redeem via VodaPay app or USSD where supported.
+Source371: https://www.vodacom.co.za/vodacom/help/v-up-faqs
